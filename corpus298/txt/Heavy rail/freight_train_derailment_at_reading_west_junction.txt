@@ -1,0 +1,32 @@
+
+  At 13:42 hrs on 28 January 2012 a wagon on a container train derailed, and then re-railed, when crossing a section of track connecting two lines (a crossover) at Reading West Junction. No-one was injured. However, the condition of the train was such that the derailment could have taken place elsewhere, in which case the consequences might have been more severe.
+
+The train was formed of 25 container-carrying flat wagons. The wagon that derailed was the 24th from the front. It was carrying a single freight container on the trailing end, which was packed with 13 pallets of automotive components, each weighing approximately 1300 kg. On opening the container, the RAIB found that all the pallets were unsecured and had moved to the side, resulting in uneven loading of the wagon. A survey of the track revealed a geometry defect (a twist fault) close to the point of derailment.
+
+The cause of the derailment was that there was insufficient load on the front right-hand wheel of the wagon to prevent its flange climbing over the railhead. This was the combined result of the uneven loading on the wagon, specifically the lateral offset of the payload in the container, and the effect of the twist fault on the crossover.
+
+The RAIB concluded that the pallets had moved during the road journey to the freight terminal where the container was loaded onto the train. Schaeffler Automotive, the company that packed the container, had no processes at the time to ensure that the pallets would not move. The checks and handling methods used by Freightliner, the operator of the terminal, did not detect the offset load.
+
+Although the size of the twist fault did not require the line to be blocked to traffic, Network Rail’s processes for track inspection and maintenance had not identified that it existed.
+
+The RAIB has made five recommendations, one directed to the Health and Safety Executive, two to Freightliner and two to Network Rail. They are concerned with:
+
+
+  making relevant parties aware of the need to pack freight containers in accordance with published guidance, and gaining assurance that this is being done;
+  the detection of at-risk freight containers and wagons before they enter traffic;
+  the detection of track geometry defects after mechanised maintenance; and
+  minimising the formation of track geometry defects during mechanised maintenance.
+
+
+ R022013-130128-Reading-West.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Reading West Junction
+
+

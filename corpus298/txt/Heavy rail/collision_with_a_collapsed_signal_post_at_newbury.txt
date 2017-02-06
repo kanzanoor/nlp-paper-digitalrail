@@ -1,0 +1,25 @@
+
+  At about 14:35 hrs on 17 November 2014, a train travelling at 110 mph (177 km/h) struck the top of a signal which had collapsed and fallen across the railway line near Newbury. The signal post completely obstructed one track and partially obstructed a second (the one on which the train was travelling). There were no injuries and the train did not derail, but it did sustain some exterior damage. The outcome could have been much more serious if the first train to encounter the collapsed signal had been travelling at speed on the completely obstructed track.
+
+The signal collapsed because the base of the post, which was of hollow tubular steel construction, had corroded through, causing an almost complete loss of wall thickness at and just above ground level. Corrosion had occurred to both internal and external surfaces; internally because water had entered the post and there was no drainage for it to escape, while the external corrosion was affected by the base being buried in ballast, which held water around the base and damaged the protective coating on the signal post.
+
+Signal posts are subject to annual visual examinations, but the examinations of this signal did not detect the problem because the main area of corrosion was hidden by ballast, and the examinations regime was vulnerable to missing such defects. A separate examination in 2012 for a resignalling project in the area also did not detect the defect for similar reasons. Because the defect was not detected, it was not reported and remedied through maintenance.
+
+The investigation also identified possible underlying factors associated with the management of ballast levels around post bases, competence management of structures examiners and corporate knowledge about the original design specifications for signal structures.
+
+As a consequence of this investigation RAIB has made five recommendations. Four of the recommendations are addressed to Network Rail and cover the management and examination of signal structures and their resistance to such failures. The fifth recommendation is addressed to Amey regarding its competence management arrangements for structures examiners.
+
+RAIB has also identified a learning point relating to the process for conducting visual examinations on structures such as signal posts.
+
+R152015_150923_Newbury 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Newbury
+
+

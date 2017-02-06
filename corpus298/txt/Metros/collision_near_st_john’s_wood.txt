@@ -1,0 +1,29 @@
+
+  At around 02:40 hrs on 25 October 2007, an engineering unit (consisting of a motorised electric track trolley, carrying four persons, and two loaded trailers) failed to slow down at the rate the driver expected. The engineering unit was travelling at approximately 10 mph (16 km/h) from St John’s Wood station towards Baker Street station on the London Underground Jubilee southbound line. The engineering unit collided at slow speed with two manual trolleys. There were no injuries.
+
+The RAIB investigation identified the immediate cause which was that the emergency brake failed to slow the engineering unit at the rate expected by the Track Trolley Operator.
+
+Causal factors were that the trailer connected to the electric track trolley had non-operational emergency brakes, that the the second trailer had only 50% operational emergency brakes, and the poor performance of the braking systems on the engineering unit. The mechanical design of the braking system of the trailers was also of a sensitive nature, which had resulted in the emergency brakes jamming in the off position on one trailer.
+
+The RAIB has also identified contributory and underlying factors. The underlying factors are associated with the operation of on track plant on London Underground, and the acceptance and maintenance of such plant for London Underground.
+
+As a consequence of this incident RAIB has made fourteen recommendations. These relate to the following areas:
+
+
+  the manufacturer of the vehicles, and in particular the design, maintenance, and operation of the engineering unit including the braking system of the trailers
+  the training of the staff involved
+  the design, acceptance and approvals process for on-track plant and training on London Underground Ltd’s railways
+  the reporting of the incidents by the staff involved.
+
+
+R242008-081127-StJohnsWood.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body.
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for St John’s Wood 
+

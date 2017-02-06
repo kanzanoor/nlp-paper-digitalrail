@@ -1,0 +1,28 @@
+
+  At 08:03 hrs on 23 March 2015, one bogie of a wagon derailed on a set of points as it crossed between lines at Washwood Heath West Junction, Birmingham. The bogie ran derailed for 121 metres before re-railing itself as it ran through another set of points. The train driver was not aware of the derailment. The signaller noticed irregular indications on his display panel, stopped the train and asked the driver to examine it. The driver found that the tenth wagon in the train showed signs of having run derailed.
+
+The train comprising a locomotive and 24 container wagons had been travelling at 15 mph (24 km/h) while negotiating the series of crossovers. The wagon that derailed was a container-carrying ‘Megafret’ IKA wagon which consisted of two flat platforms permanently coupled together. The derailment caused significant damage to track and signalling equipment. No-one was injured.
+
+The track where the wagon derailed was curved and found to contain a twist fault of a magnitude which Network Rail’s track maintenance standard specified should be rectified within 36 hours. Network Rail was not aware of the existence of this fault at the time. 
+
+Wagons should be capable of negotiating a track twist of a magnitude which the track standard allows to remain in a line open to traffic. When tested, the wagon which derailed was found not to meet the requirements of the relevant Railway Group Standard for resistance to derailment due to track twist.
+
+When examined after the derailment, a component on the centre pivot of the bogie, known as a liner, was found to be worn beyond its maintenance limit. The liner is made from a plastic material and allows relative movement between the body and the bogie. The worn liner had restricted the freedom of the bogie to rotate, increasing its rotational stiffness. The worn liner also caused increased wheel unloading on track twists. Both of these factors reduced the wagon’s ability to resist derailment, causing it to derail when it encountered the track twist on the curved track at this location. 
+
+The worn liner had not been identified during maintenance of the wagon as the maintenance instructions were unclear about when it should be inspected. 
+
+Following another derailment, at Doncaster on 11 April 2015, the wagon owner instigated a check of part of its UK fleet which revealed that a number of other wagons of the same type had experienced a similar degree of centre pivot liner wear.
+
+RAIB has made three recommendations and four learning points. Two of the recommendations are made to the wagon owners and cover the maintenance procedures for Megafret wagons and the process for dealing with any problems found with the wagons. One recommendation is made to Network Rail and covers the training and briefing of staff on the maintenance of points of the type used at Washwood Heath West Junction. One of the learning points concerns wagon maintenance and three are related to track maintenance.
+
+R012016_160111_Washwood_Heath 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Washwood Heath West Junction
+

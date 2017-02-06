@@ -1,0 +1,25 @@
+
+  At 00:11 hrs on 27 November 2014 two engineering vehicles (that were part of a new overhead line wiring train) ran away on a gradient close to Bryn station, near Wigan. They collided with two mobile elevating work platforms in the station; seven members of staff who were on and around the work platforms narrowly escaped injury.
+
+The two coupled vehicles were a haulage vehicle, an existing item of track maintenance plant, and a specially-adapted wagon, on which the overhead wiring team were located.
+
+The driver of the haulage vehicle did not correctly operate the controls to change from a travelling mode to a working mode before he left the cab. This caused the brakes to release and, because it also caused the brake controls on the wagon to become disabled, the wiring team were unable to reapply them. No design, change management, approval or risk assessment work had identified the need for a safety measure to prevent or mitigate the consequences of the error. 
+
+RAIB has identified two underlying factors that help explain why the parties involved had not realised the significance of changes that were proposed to the use of the haulage vehicle. In summary, when developing the new train, they followed a philosophy of minimising technical change and they did not adopt a systematic and integrated approach to the identification and management of requirements and interfaces (a system-based design approach).
+
+As a consequence of this investigation, RAIB has made five recommendations.
+
+Three are to Balfour Beatty Rail, the operator of the vehicles, concerning:
+
+
+  ensuring improved hazard identification when introducing and operating railborne plant
+  properly assessing and managing the risk implications of making changes to the design and use of its equipment
+  improving the quality of the alterations it makes to electrical systems on its equipment.
+
+
+One recommendation is to RSSB concerns clarification of its guidance to the rail industry concerning the management of changes relating to the design, operation and maintenance of vehicles and plant operating in engineering possessions.
+
+One recommendation is to Network Rail to ensure the risks associated with the introduction of new and modified railborne plant are properly managed before such plant is allowed to operate on its infrastructure.
+
+R092016_160509_Bryn
+

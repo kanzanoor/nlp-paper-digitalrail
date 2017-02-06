@@ -1,0 +1,37 @@
+
+  On Friday 23 February 2007 a Virgin West Coast train from London Euston to Glasgow derailed on 2B points at Lambrigg, near Grayrigg in Cumbria, while travelling at 95mph. All nine carriages of the Class 390 Pendolino were derailed. There were at least 105 passengers and four crew on board. One passenger was fatally injured, 28 passengers, the train driver and one other crew member were seriously injured, and 59 passengers received minor injuries.
+
+The immediate cause of the accident was 2B points being in a degraded and unsafe state, forcing the train onto a reducing gauge between the rails and causing it to derail. Points 2B came to be in an unsafe condition through a combination of failures of the three stretcher bars and the lock stretcher bar, and their fastenings. This allowed the left-hand switch rail to move into an unsafe position close to the stock rail, without losing signalling detection.
+
+At this stage of the investigation, it has been established that the following have no relevance to the cause of the derailment:
+
+
+  the way in which the train was driven; 
+  the actions of the signaller at Carlisle; 
+  the design and condition of the train; 
+  the signalling system, including the points control and detection mechanism; 
+  the condition of the track on the approach to the points; and
+  the condition of the earthworks on and around the railway. 
+
+
+Immediately after the accident Network Rail carried out an extensive check of points on their system to ensure there were no other stretcher bars in a similar state. As a result of the emerging findings from the investigation, the RAIB issued an urgent safety advice on 6 June 2007 to Network Rail, and also to Nexus, Northern Ireland Railways and London Underground, who all use a similar design of points. As part of their response to this advice, Network Rail undertook a further examination of the 120 sets of points most similar to 2B points. Some faults were found, and in six cases, Network Rail imposed speed restrictions until faults to the track gauge, free wheel clearance and stretcher bars were rectified.
+
+Continuing Work
+
+The RAIB has not yet fully concluded the causal and contributory factors of the derailment. The report outlines the current status of the investigation and areas of ongoing work, which include the following:
+
+
+  concluding the study into the cause of injuries to the passengers and crew; 
+  concluding the investigation into the maintenance and inspection practices and systems at points, at both a national and local level, to determine their relevance to the derailment; 
+  considering how the overall balance of design, environment, usage, inspection and maintenance of the specific points system has been addressed by the industry, and the management of these factors through Network Rail’s processes and standards; 
+  considering the relevance and possible effects of the implementation of the recommendations made after the Potters Bar accident on the points at Lambrigg. 
+
+
+The timing of the next report by the RAIB is dependent on completing the work listed above. The RAIB currently expects to publish this in second half of 2008.
+
+The RAIB’s final report will make recommendations to improve safety.
+
+ 
+IR22007-071003-Grayrigg.pdf 
+
+

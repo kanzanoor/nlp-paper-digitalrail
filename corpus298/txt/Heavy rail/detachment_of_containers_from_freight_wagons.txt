@@ -1,0 +1,40 @@
+
+  The first incident occurred at around 02:24 hrs, when two empty containers were blown off freight train 4E90, while it was travelling on the down fast line of the West Coast Main Line (WCML) at Cheddington, near Leighton Buzzard. The train consisted of a Class 56 locomotive hauling 20 FEA-B type flat wagons and was running at approximately 75 mph (121 km/h). The detached containers blocked the running lines and caused damage to overhead line equipment (OLE) and the track.
+
+The second incident occurred at around 03:15 hrs on the same day when five empty containers were blown from freight train 4S83, while it was travelling on the down line of the WCML adjacent to Hardendale Quarry, between Tebay and Penrith. This train consisted of two Class 86 locomotives hauling 20 container flat wagons of mixed types, including 10 FEA-B wagons, and was also running at approximately 75 mph (121 km/h). The detached containers were blown from the rearmost four FEA-B wagons of the train. They blocked running lines and caused damage to the OLE and track.
+
+The immediate cause of the incidents was the overturning and detachment of the empty freight containers, due to the aerodynamic forces resulting from a combination of high cross winds and train speeds. There were several causal and contributory factors and two underlying factors. The causal factors were:
+
+
+  the high cross wind speeds at both sites
+  both trains were travelling at close to their permitted maximum speed of 75 mph (121 km/h)
+  the containers which detached were empty
+  the lack of overturning retention provided by the FEA-B wagon’s fold-down spigots, because the spigots had not been designed in accordance with the appropriate standard
+  the wagon manufacturer had not appreciated the function and operating principles of the spigots
+  the lack of explicit warning in the design standard covering spigots, about the use of inboard hinges for fold-down spigots
+  the lack of checks on the spigots by the vehicle acceptance body during the vehicle approvals process
+  the lack of a mandatory UK design Railway Group Standard (RGS) relating to load retention devices
+  the lack of use of guidance documentation during the vehicle approvals process
+  the freight operators not identifying that the FEA-B wagon’s fold-down spigots could not secure containers from overturning.
+
+
+As a consequence of this accident, RAIB has made ten recommendations, targeted as follows:
+
+
+  Freight operators: five recommendations relating to operating wagons fitted with UIC spigots in windy conditions, checking compliance of spigots on existing wagons, reviewing maintenance documentation and developing a long term solution for wagons fitted with non-compliant spigots
+  The Office of Rail Regulation (ORR): one recommendation relating to clarification of the European freight wagon standard, so that in future designers are made aware of the operating principles of spigots and the dangers of fold-down spigots
+  Rail Safety and Standards Board (RSSB): three recommendations relating to UK standards for load retention devices and minimum container weights and a review of the implementation of the vehicle certification process
+  Network Rail: one recommendation to review the compatibility of the wind speeds and durations at which actions are taken to protect the network with the design requirements for trains in relation to overturning.
+
+
+R122009-0905027-Containers.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Cheddington and Hardendale 
+

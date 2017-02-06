@@ -1,0 +1,30 @@
+
+  At 12:31 hrs on 4 December 2012 a collision occurred between a passenger train and a car at Beech Hill automatic half barrier (AHB) level crossing near Finningley, on the line between Gainsborough and Doncaster. One of the occupants of the car, a young child, was seriously injured in the collision and later died in hospital.
+
+The train involved was operated by East Midlands Trains. It consisted of a single carriage unit and was travelling at 60 mph (96 km/h) at the time of the collision. None of the 20 passengers and two crew members on the train was injured in the accident. Equipment beneath the train was damaged in the collision leading to the spillage of diesel fuel from the train’s fuel tank, but there was no fire.
+
+The level crossing was owned and maintained by Network Rail and was fitted with a data logger which showed that the crossing was operating normally at the time of the accident, with the barriers down as the car approached. The car driver stated that she did not see that the road traffic light signals (known as wig-wags) were flashing as she approached and only noticed the lights and barriers when she was very close to the crossing. The weather was sunny at the time of the collision but there had been rain showers earlier and the road surface was wet, leading to glare from the low winter sun.
+
+The RAIB took the wig-wag units and arranged for testing in an optical laboratory. It was found that they were fitted with 36 W lamps and an obsolete design of red lens unit. Their light output was measured to be well below the specification for lights of this type. Network Rail had no plans in place to replace the light units with brighter ones and had no process to identify that such replacement was necessary.
+
+The RAIB has made four recommendations as follows:
+
+
+  infrastructure managers to determine which level crossings are fitted with 36 W lamps and draw up plans for their replacement with LED units
+  infrastructure managers to devise a method of assessing the risk of a bright background and glare preventing wig-wag signals from being seen and propose means of mitigating this
+  infrastructure managers to introduce a new ‘brighter’ type of LED wig-wag for use at sites where sunlight glare has been identified as a problem
+  infrastructure managers to enhance the inspection and maintenance process for wig-wag lamps.
+
+
+R172013-130924-Beech-Hill-v2.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Beech Hill LC
+
+

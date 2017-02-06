@@ -1,0 +1,25 @@
+
+  At around 05:20 hrs on Sunday 25 May 2014, the third vehicle of an empty five car class 360/2 passenger train manufactured by Siemens and operated by Heathrow Express derailed while it was running along platform 3 at London Paddington station. All four wheels on the leading bogie of the third vehicle became derailed on a track defect which, according to Network Rail’s standards, required a repair within 36 hours. No one was injured as a result of the derailment.
+
+The derailment occurred because the bogies of the third vehicle were incorrectly set up, which resulted in the left-hand wheels of the leading bogie being partially unloaded even when stationary. The track defect along platform 3 exacerbated this unloading and contributed to the derailment.
+
+The investigation has found that the incorrect setup was the result of the repeated implementation by Siemens technicians of a procedure aimed at setting the vehicle ride heights following tyre turning or bogie replacement. This procedure did not clearly instruct the technicians on how to adjust one of the bogie components (the anti-roll bar) which resulted in the technicians setting it in such a way as to create the wheel load imbalance. None of the checks in the procedure identified the incorrect setup because these checks were not monitoring parameters likely to provide a clear indication of a wheel load imbalance. An underlying factor was the lack of effective transfer of design information about the role and importance of the anti-roll bars between the vehicle designers (Siemens Germany) and the vehicle maintainers (Siemens UK).
+
+The track defect had been repeatedly identified by Network Rail’s measurements of track geometry for at least three years. However the required processes to remedy the defect were not followed and this was not picked up by Network Rail’s assurance process.
+
+As a result of this investigation, the RAIB has made four recommendations to Siemens and one to Network Rail. The recommendations to Siemens relate to the revision of the procedure used to set the vehicle ride heights, training materials and competence assessments to capture the function of anti-roll bars, their method of adjustment and the risks associated with incorrect setup. The recommendations also cover a review of other maintenance procedures and a review of the effectiveness of Siemens’ recently developed processes for transfer of design information into maintenance procedures.
+
+The recommendation on Network Rail is to review its supervision and self-assurance arrangements to identify shortcomings which led to the non-compliances with a mandated standard going unnoticed.
+
+R032015_150430_Paddington 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Paddington station 
+
+

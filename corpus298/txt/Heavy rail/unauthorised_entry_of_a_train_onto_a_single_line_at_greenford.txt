@@ -1,0 +1,24 @@
+
+  At around 11:55 hrs, the 11:36 hrs passenger train from London Paddington to West Ruislip, operated by Chiltern Railways, passed two consecutive signals at danger near Greenford, west London. It was stopped when a signaller sent an emergency radio message to the driver. Although no-one was hurt in the incident, the unauthorised entry of a train onto a single line creates the potential for a serious collision.
+
+A freight train had passed the junction at Greenford shortly before the passenger train was due. Because the freight train was still occupying the line between Greenford and South Ruislip, the signaller at Greenford kept the signal at the junction at danger. The passenger train, travelling at about 20 mph (32 km/h), passed this signal and the next one, 142 yards (130 metres) further on, which was also at danger. It passed over the junction and onto the single-track section towards South Ruislip, which was still occupied by the freight train. The train had travelled about one mile (1.6 km) beyond Greenford by the time that the driver received the emergency radio message.
+
+The investigation found that the driver of the passenger train did not react to the two signals at danger, for reasons which are not certain. It is possible that he had formed the impression that the train had been given clear signals through Greenford, because of his interpretation of the meaning of the signal preceding those that he passed at danger, and he had not been stopped by signals at Greenford in the recent past.
+
+The Train Protection and Warning System (TPWS) was fitted to the train and to both the signals, but it did not intervene to apply the brakes of the train, as it was intended to do. This was because the on-train TPWS equipment had self-isolated when the driver prepared the train for departure from Paddington. The isolation of the equipment was indicated by a flashing light in the cab, but the driver still drove the train.
+
+Although the signaller at Greenford wished to stop the train by sending an emergency call on the GSM-R radio system, he did not attempt to do so because the information presented by the radio equipment in the signal box suggested to him that any message he sent would not reach the train. Instead, he contacted Marylebone signal box, which was able to send a message to the train.
+
+RAIB has made three recommendations. One is addressed to Chiltern Railways, and covers the need for a review of the company’s driver management processes. The other two, addressed to Network Rail, cover the configuration of the GSM-R radio system as it affects the ability of signallers to directly contact trains that are within their areas of control, and the training given to signallers in the use of the GSM-R system. RAIB has also identified two learning points: one for signallers, relating to the use of delayed clearance of signals to warn train drivers of the state of the line ahead, and the other for train operating companies, relating to the upgrading of on-train TPWS equipment.
+
+R292014_141222_Greenford.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Greenford
+

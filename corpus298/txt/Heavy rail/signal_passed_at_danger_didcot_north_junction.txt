@@ -1,0 +1,20 @@
+
+  At 16:38 hrs on Monday 22 August 2007 First Great Western passenger train 1W47, travelling from London Paddington to Worcester Shrub Hill, passed a signed at danger to the north of Didcot Parkway station. At the same time First Great Western train 2P66, travelling from Oxford to London Paddington, was just passing clear of the junction ahead.
+
+Despite the correct operation of the Train Protection Warning System in the London to Worcester service train, which applied the emergency brake, the train did not come to a standstill until it had entered the junction. The time that had elapsed between the back of train 2P66 clearing the Didcot North junction and the arrival of train 1W47 was 13 seconds. There were no casualties, and no damage, as a result.
+
+The RAIB’s investigation identified that the immediate cause of the incident was that the driver did not respond correctly to the aspect of the previous caution signal. Possible causal factors involved the driver’s expectation of the signalling system’s performance, his perception of the situation he was in, external distraction and the braking performance of the train relative to that assumed in the design of the Train Protection Warning System. Underlying factors include Network Rail’s response to a previous incident, and the recommendations that arose from it.
+
+As a consequence of this accident RAIB has made nine recommendations relating to risk assessments for junction signals, standards for train braking performance and driving policy and associated competence management systems.
+
+R232008-081120-Didcot.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body.
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Didcot North Junction
+

@@ -1,0 +1,34 @@
+
+  At approximately 02:40 hrs on 10 November 2008, the two locomotives hauling train 7A91, from Merehead Quarry to Acton Yard, derailed on a set of points at East Somerset Junction near to the village of Witham Friary in Somerset. The derailment caused damage to the track in the vicinity of the points. The position of the two locomotives made re-railing them difficult and it was not accomplished until 06:12 hrs on Tuesday 11 November 2008. The Merehead branch was reopened at 12:40 hrs the same day. No-one was hurt.
+
+The immediate cause of the accident was that the signaller did not operate a set of points to the correct position for the safe movement of train 7A91. Other relevant factors identified include:
+
+
+  a failure affecting signalling equipment on the Merehead branch at the time of the accident
+  the signaller not referring to his route-setting cards when attempting to secure a safe route and the lack of a method over and above the use of route-setting cards for helping signallers working on their own to ensure that they had taken the correct actions in setting the route for trains under signalling equipment failure conditions
+  the number of hours and the nature of the shifts that the signaller at Westbury Power Signal Box had worked in the period leading up to the accident, which meant that he was probably suffering from fatigue
+  the absence of a suitable framework of controls to manage fatigue in safety-critical staff working for Network Rail
+  Network Rail did not have a formal monitoring system in place to identify recurring themes in accident and incident causation (such as fatigue) or the effectiveness of responses to previous relevant recommendations.
+
+
+As a consequence of this accident, RAIB has made ten recommendations, targeted at Network Rail with a further recommendation targeted at the Office of Rail Regulation (ORR). These recommendations cover:
+
+
+  assistance for signallers implementing procedures to address equipment failures while working alone
+  changes to the working arrangements at Westbury Power Signal Box
+  changes to the way Network Rail combats fatigue in its signallers and other safety-critical staff
+  improved processes for Network Rail to review recommendations from accident and incident investigations and identify common themes
+  the Office of Rail Regulation’s monitoring of changes in Network Rail’s approach to fatigue management.
+
+
+R282009-091110-East-Somerset-Junction.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for East Somerset Junction 
+

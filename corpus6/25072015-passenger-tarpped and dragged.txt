@@ -1,0 +1,12 @@
+25072015-passenger-trapped and dragged
+
+Training/Experience:1:The train driver and other FGW staff believed that the door interlock system would detect the presence of an object such as a hand.
+2:he may have used the door interlock light as assurance that it was safe to depart.
+
+supervsion:FGW’s driver management processes did not detect and adequately respond to the deteriorating safety performance of the driver involved in the accident
+
+
+Persona:1:The train driver started the train with the passenger’s hand trapped in the door
+2:The passenger placed her hand into the gap between the door leaves as they were closing
+
+technical/Haqrdware:The driver was able to start the train with the passenger’s hand trapped in the door.

@@ -1,0 +1,24 @@
+
+  On 28 June 2006 a Freightliner Heavy Haul coal train from Redcar to West Burton derailed on a set of points at Maltby North. Three wagons derailed but they remained upright and did not spill their loads. There were no injuries but 80m of track was damaged.
+
+The immediate cause of the derailment was the points moving position as the train traversed them. One causal factor was the non-implementation of ‘time of operation locking’ for these points, despite it being specified. Although they cannot be proven positively, other causal factors were the likelihood that the driver passed the signal at danger, and that the signaller changed the points just as the train passed over them. There were also three contributory factors.
+
+RAIB has made four recommendations as a result of the report, aimed at:
+
+
+  the design of the signalling system at Maltby 
+  signallers’ roster patterns
+  implementing appropriate control measures at similar signalling installations where necessary.
+
+
+R242007-070718-Maltby.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body.
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Maltby North
+

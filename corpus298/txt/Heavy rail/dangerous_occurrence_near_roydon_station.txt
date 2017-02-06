@@ -1,0 +1,26 @@
+
+  At approximately 13:43 hrs on 16 July 2012, train 2H33, the 13:04 hrs service from Cambridge to London Liverpool Street was approaching a bridge just north of Roydon station, Essex, at a speed of 62 mph (100 km/h). As it did so, two track workers had to run from the bridge in order to avoid being struck by the train. The last of these track workers got clear of the railway line around two seconds before the train passed them.
+
+At the time of the incident, these track workers were working on a line which was open to railway traffic. They were being protected by a system of work which relied on a lookout to provide warning of approaching trains. If established correctly, such a system should allow track workers to reach a position of safety at least 10 seconds before a train arrives.
+
+This incident occurred because the group’s lookout was not able to give the track workers on the bridge sufficiently early warning of the approach of train 2H33. This was because the controller of site safety (COSS) responsible for protecting the group from train movements had implemented a system of work which was nappropriate, given the nature of the task and the location in which it was being undertaken.
+
+The system of work implemented by the COSS had been issued by a planner, who had selected it as an appropriate system based on his knowledge of the location and his previous experience of working on the track. It is possible that this incident could have been avoided had the planner sought approval for the system from a more senior person before it was issued, as is required by Network Rail’s standards.
+
+The inexperience of the COSS and the group in implementing this type of system of work was an underlying factor in the accident. The short time-frame in which the work was planned and the experience of the planner were also possible underlying factors.
+
+As a result of the investigation, the RAIB has identified two key learning points. These concern the need to keep the late planning of work to a minimum and for persons undertaking the duties of a COSS to follow the requirements of Network Rail’s standards when issued with a system of work on the same shift that a task is to be undertaken.
+
+The RAIB has made two recommendations, both addressed to Network Rail. These relate to improving the way in which available sighting distances are assessed by persons undertaking the duties of a COSS or a planner. The RAIB has also restated a previous recommendation addressed to Network Rail which relates to the manner in which training and assessment can deliver practical competences.
+
+R072013-130627-Roydon.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Roydon
+

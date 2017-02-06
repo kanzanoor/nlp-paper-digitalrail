@@ -1,0 +1,61 @@
+7-09-2015-derailment-at-Knaresborough
+
+Housekeeping : the resident signaller for the morning shift (resident signaller B) reported an intermittent 
+indication fault on points 3 in the signal box.Unable to recreate the fault, they replaced 
+the lamps in the indicators for points 3 in the signal box, as a precaution.
+
+
+Personal:one of the resident signallers (referred to as resident signaller A) in Knaresborough signal box hurt his 
+back when pulling the mechanical lever controlling points 5.Having reported the injury to his line management, 
+he completed his shift on the basis that points 5 did not need to be used again.
+ He was due to work the following day but called in sick because of his bad back.
+
+
+Communication:
+1:the Harrogate LOM called the Knottingley MOM to discuss the upcoming work as a points operator that 
+the Knottingley MOM was scheduled to undertake on the Saturday morning at Harrogate5. During the discussion, 
+the Harrogate LOM mentioned that he was struggling to find someone to operate Knaresborough signal box at the same time. 
+The Knottingley MOM, knowing tha he was still certified as being competent to operate the signal box, offered to 
+cover the shift at Knaresborough.
+
+2:the signaller (MOM) received a call from the driver of train 2C07 which by now had stopped at signal K10 at danger.
+ The signaller (MOM) explained that he had pulled the levers in the wrong order and asked the driver to wait.
+
+
+Training:
+1:the signaller (MOM) pulled signal levers K9-K8-K10 in this order, expecting all three signals to clear, 
+but signal K10 did not.
+2: The signaller (MOM) did not realise that the points were not set in either the normal or reverse position 
+and interpreted his ability to reverse the signal lever as proof that the route was correctly set and safe.
+3:The signaller (MOM) did not check the indication on points 3. Had he checked the indication, he would have
+discovered that neither the normal nor reverse lamp for points 3 was illuminated, indicating that the points 
+were not correctly set. Signal K10 did not clear because of a points failure, and for no other reason.
+
+Unsafe condition:
+ 1:the signals at Knaresborough signal box need to be pulled in a specific order for them to clear 
+(K10-K9-K8), he replaced all three levers. This action meant that there was then a two-minute period during 
+which signals K9 and K10 could not be operated.
+
+2:signal K10 remained at danger and the corresponding signal aspect indicator in the signal box 
+continued to display a red light
+
+3:the train was travelling at approximately 18 mph (29 km/h) as it passed over the points.(is in excess of the 
+15 mph (25 km/h) limit that applies when driving over points after having been authorised to pass a signal at danger)
+
+Procedure:the signaller (MOM) pulled the signal levers in the sequence K10-K9-K8 fully expecting signal K10 to clear
+ this time.
+
+Authority:Unable to identify anything that would explain why signal K10 remained at danger, he concluded that there must
+ have been something wrong with the signal and decided to authorise the driver to pass the signal at danger.
+
+Supervision-Management:The signaller (MOM) asked the driver to proceed at caution 
+but did not ask him to examine the line to specifically look for a hazard.
+
+Hardware/equipment :The switch rails of points 3A were not set in either the normal or reverse position, 
+most likely because of high friction at the baseplate to switch rail interfaces.
+
+Maintainance Management:The lack of adherence to the lubrication application guidelines, combined with the poor 
+installed geometry of the points, resulted in higher than expected friction.
+Accident:
+At 07:22 hrs, as it was travelling over points 3A, train 2C07 derailed.
+

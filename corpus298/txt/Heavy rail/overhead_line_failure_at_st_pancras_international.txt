@@ -1,0 +1,23 @@
+
+  On 23 September 2009, at approximately 18:35 hrs, shortly after the arrival of the 17:13 hrs train from Paris Nord at platform 9 of St Pancras International station, London, the overhead wire supplying electric power to the train, which was live at 25kV, parted and fell to the ground.  This occurred during the preparation of the train for its next journey, while many passengers who had left the train were walking along the platform. 
+
+The immediate cause was the parting of the overhead wire because of local overheating caused by the high electric current flowing from the wire to one of the train’s pantographs.
+
+The causal factor was an incorrect distance between the points of the electrodes on the lightning arrester caused a flashover.
+
+The probable causal factors were: incorrect connection of cables in the circuit detecting the flow of excessive current to the OHLE; the absence of continuity testing during commissioning of the supply system protection equipment; the margin between the specified performance of the protection equipment and OHLE, and the conditions that caused the OHLE to fail was small.  Had the specification provided a greater margin, it is more likely that the OHLE would have survived intact. 
+
+RAIB has made seven recommendations concerning: the design and/or maintenance of the lightning arrestor; review of quality management processes relating to the installation, testing and commissioning of safety related railway equipment; the possibility of reducing the risk associated with damaged OHLE of the tramway type falling onto station platforms; the review, and if appropriate amendment, of the requirements for the performance of electrification systems being brought into use; investigating an effective means of reminding the controller of the correct procedure to be followed before closing a circuit breaker; reviewing the induction procedures for new shift managers so that they are made aware of the procedures to be followed by electrical controllers following an automatic trip; and making permanent the temporary instruction to electrical controllers that staff at St Pancras are to be contacted to confirm that all persons are in positions of safety before attempting to reclose a circuit breaker that has opened automatically.
+
+ 
+R122010-100805-StPancras.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for St Pancras International 
+

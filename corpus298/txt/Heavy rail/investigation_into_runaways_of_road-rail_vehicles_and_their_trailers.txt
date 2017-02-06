@@ -1,0 +1,34 @@
+
+  Road-rail vehicles are vehicles that can travel on the road and, by means of a rail guidance system, on railway track. They are used during the maintenance and renewal of the railway infrastructure. The most common example is the wheeled excavator, but there are many other types.
+
+RAIB was concerned about the number of runaways involving road-rail vehicles and trailers and decided to carry out a class investigation to determine whether there are sufficient controls in place that should prevent the occurrence of runaways and whether these are properly implemented.
+
+RAIB’s investigation identified that:
+
+
+  the biggest proportion of runaways has occurred during the process whereby a road-rail vehicle transfers from road to rail, or rail to road. If not carried out correctly, an unbraked situation can arise on some road-rail vehicles
+  other runaway incidents have occurred during braking where wet rails, possibly in combination with contamination of the rail head, have caused the wheels to slide and braking distances to be extended
+  since the fatal accident at Tebay, there have been no further incidents of trailer runaways, although there have since been runaway incidents where trailers have been coupled to road-rail vehicles.
+
+
+During the course of the RAIB’s investigation, Network Rail carried out its own investigation into the safety of road-rail vehicles and trailers. This did not specifically focus on runaways but has made recommendations on the design of new road-rail vehicles and the content of training courses that complement some of the recommendations made by RAIB in its report.
+
+As a consequence of this accident, RAIB has made three recommendations aimed at Network Rail:
+
+
+  Network Rail should use a systems engineering process to manage the specification, design, operation and maintenance of road-rail vehicles
+  Network Rail should assess the safety of existing road-rail vehicles, using safety analysis methods, to determine whether the current technical and operational controls in place are sufficient to stop road-rail vehicles running away
+  Network Rail should improve the level of reporting of incidents involving road-rail vehicles.
+
+
+R272009-091029-RRV.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for RRV runaways
+

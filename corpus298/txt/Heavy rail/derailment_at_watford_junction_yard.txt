@@ -1,0 +1,27 @@
+
+  At around 05.30 hrs on 28 October 2005, a train formed of an empty 4-car electric multiple unit derailed in the yard at Watford Junction station. There were no injuries to staff and the derailment was limited to the second bogie of the second vehicle. Some damage occurred to the track which was repaired, enabling the branch to be reopened by 16.00 hrs that day.
+
+The immediate cause was an error in the operation of the ground frame controlling the points causing the points to move under the train.
+
+Contributing factors were: inadequate understanding by staff of the operation and function of the ground frame; absence of suitable written instructions for the operation of the ground frame; the absence of any locking preventing the movement of the points during the passage of a train.
+
+Four recommendations are made to reduce the likelihood of a recurrence of this incident. They cover:
+
+
+  Briefing of staff in the operation of the ground frame
+  The physical process of operating the ground frame
+  Formal written instruction to operate the ground frame
+  The possible long term provision of a locking arrangement at the ground frame.
+
+
+R022006-060328-Watford-Junction-yard.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body.
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Watford Junction yard
+

@@ -1,0 +1,25 @@
+
+  At around 06:50 hrs on 25 March 2012, a machine operator was in the process of removing a road-rail dumper from the railway close to Bradford Interchange station. As it was being lowered onto its road wheels, it ran away for 380 metres down a gradient towards the station.
+
+The operator, who was on the dumper, was unable to stop it and jumped clear before it collided with the buffer stops in platform 1. The operator received minor injuries, and the dumper and buffer stop sustained some damage.
+
+The RAIB’s investigation identified that the dumper was not in a fully braked state when being removed from the track. This was due to a combination of operator error, a wiring irregularity within a control circuit, and the underlying design of the same control circuit which prevented the operator from recovering the situation once the runaway had begun.
+
+The RAIB has made five recommendations. Two recommendations have been made to Quattro Plant Limited, the owner and maintainer of the dumper. It was also responsible for the design and installation of the braking control circuit and provided the machine operator. One of these recommendations relates to improving the level of safety assurance when undertaking modifications to road-rail vehicles (RRVs). The other relates to better management of the competence of its staff.
+
+Three recommendations have been made to Network Rail. One is in relation to minimising the risk of runaways on certain types of RRVs on which the design restricts the ability to regain control of an RRV once it has begun to runaway. Another relates to reviewing and improving compliance monitoring and assurance activities, which both Network Rail and its rail plant suppliers undertake, in order to provide better focus on matters relating to the safe maintenance and operation of RRVs. The third recommendation is to review two aspects of the engineering acceptance process, to give clarity to rail plant suppliers and those assessing modifications to RRVs.
+
+The RAIB has also identified a learning point for RRV owners regarding possible improvements to the layout of RRV controls to minimise unintentional operation.
+
+R092013-130724-Bradford- Interchange.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Bradford Interchange 
+
+

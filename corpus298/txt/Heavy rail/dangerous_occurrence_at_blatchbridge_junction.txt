@@ -1,0 +1,29 @@
+
+  At approximately 19:27 hrs on 19 March 2012, train 6Y33 was approaching Blatchbridge Junction, near Frome in Somerset. The train was made up of a number of engineering vehicles including a track renewal unit (known as a P95 machine). Part of the P95 machine included two control cabs, which were attached to an overhead supporting beam. One of these cabs, weighing around 1.25 tonnes, became detached from the overhead beam and fell to the track below (a distance of around 450 mm).
+
+The unsecured control cab remained loosely connected to its vehicle by electrical control cables and an air brake hose. These helped to guide the control cab in a relatively straight line as it slid along the top of the rails beneath the train, until the train stopped around 1 ½ miles further on. A foot crossing was damaged as the control cab slid along the rails. The control cab itself was significantly damaged and was rebuilt following the incident.
+
+The incident occurred because all eight bolts securing the control cab broke. The bolts broke due to a combination of factors, including:
+
+
+  When the P95 machine was in its working mode (moving at less than walking pace) the bolts securing the cab experienced very high stress for very short periods. This cycle of strain events occurred several times each shift and caused fatigue in the bolts.  
+  The fatigue strength of the bolts was reduced by the presence of corrosion on the bolts. The design of the bolt mounting arrangement allowed moisture to reach the bolts.
+  Some of the bolts had broken before the incident and maintenance of the P95 had not identified this because the maintenance instructions were not clear and lacked technical detail.  
+  It is possible that a previous incident adversely affected the fatigue performance of some of the bolts securing the control cab. Other bolts may have been affected by the uneven change in load.  
+  Following the previous incident the bolts were not inspected because it was believed damage to the control cab was only superficial and the maintenance instructions did not indicate that the bolts needed to be removed for inspection following an incident directly affecting the control cab.
+
+
+The RAIB has made seven recommendations. Four are addressed to Network Rail (three of which require working with AmeyColas, the operator and maintainer of the P95) and three recommendations are addressed to Matisa (UK) Ltd who represent the vehicle manufacturer.
+
+R152013-130912-Blatchbridge-Junction.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+Response to recommendations for Blatchbridge Junction
+
+

@@ -1,0 +1,26 @@
+
+  On 8 September 2006 an (EWS) freight train service from Burton to Southampton Docks derailed as it passed the crossover in Washwood Heath yard at approximately 15.48 hours.
+
+The leading bogie of the 13th wagon derailed while the train was travelling at approximately 15mph. The local signaller at Washwood Heath no1 frame saw and heard the derailment and contacted the signaller at Saltley signal box to stop the train. There was limited damage to the derailed wagon. There were no injuries.
+
+The cause of the derailment was a high level of bogie rotational resistance arising from the design and condition of the wagon’s side bearer assembly. This caused wheel unloading when the wagon encountered track twist.
+
+The process of design scrutiny did not correctly identify the factors that influence the dynamic performance of the FAA wagon when exposed to track twist.
+
+RAIB has made four recommendations as a result of their investigation, aimed at:
+
+
+  modification certification and maintenance of FAA wagons.
+
+
+R392007-071121-Washwood-Heath.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body.
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Washwood Heath 
+

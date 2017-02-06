@@ -1,0 +1,34 @@
+30062015-derailment-of-a freight-train
+
+Accident:At around 14:15 hrs on Tuesday 30 June 2015, a freight train derailed on a track buckle near Langworth, 
+north-east of Lincoln.
+
+Enviroment:
+1:The weather was hot on the day of the derailment, the air temperature reaching 21oC before 09:00 hrs 
+and climbing steadily to a peak of 28.4oC at 16:30 hrs.
+
+2:It was the hottest day of the year to date.
+3:The Network Rail log for 30 June 2015 recorded three other track buckle incidents, in Cardiff, Worcester 
+and Stowmarket,suggesting that the new peak in temperature for the year experienced on that day was a relevant factor
+
+Procedure: 
+1:The train divided between wagons 13 and 14 which severed the continuous brake pipe and caused the 
+train’s brakes to apply automatically
+2:the stress free temperature of the rails was probably less than the 27oC recorded in Network Rail’s stressing database
+
+Hardware/equipment:the track started to buckle when the rail temperature in the vicinity of 101B points exceeded 
+its buckling temperature; and subsequently
+
+Maintance-management:
+1:There was a pre-existing lateral misalignment in the area of 101B points which promoted 
+the formation of a track buckle.
+2:there was insufficient ballast at the toe of 101B points to laterally restrain the track from buckling
+
+Unsafe Condition:A long freight train ran over the track buckle at too high a speed for the vulnerable
+ condition of the track
+
+Incompatable goals:There was insufficient appreciation of the factors affecting the CRT of the site and its 
+vulnerability to hot weather. This was an underlying factor
+
+Supervision:Maintenance work was continually reprioritised or cancelled because the Lincoln maintenance depot
+ was under-resourced. This was a possible underlying factor.

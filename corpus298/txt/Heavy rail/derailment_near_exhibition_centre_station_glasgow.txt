@@ -1,0 +1,32 @@
+
+  At 08:34 hrs on 3 September 2007, an empty passenger train derailed on points within the tunnel near to Exhibition Centre station, Glasgow. The points were laid upon a concrete slab base and, following the derailment, the last coach of the train turned on to its side, even though it was travelling at only 12 mph (19km/hr).
+
+RAIB’s investigation found that the points were not fit for the passage of trains due to one of the rails having:
+
+
+  an incorrect shape following earlier remedial grinding
+  no lubrication following the grinding, although this was required by Network Rail’s own standards.
+
+
+The errors in grinding the switch rails were the result of mis-applying a measuring gauge that Network Rail had recently introduced, and which the operators had been trained to use in a classroom environment, but not on actual track.
+
+As a consequence of this accident, RAIB have made four recommendations, all targeted at Network Rail. These cover:
+
+
+  ensuring that hands-on training is given for new tools
+  assessing the risks of installing points on concrete slab bases and researching the effects of derailments on them, (to establish whether the rigidity of the track contributed to the coach overturn)
+  reviewing how Network Rail checks maintenance work on points.
+ 
+
+
+R042009-090212-Glasgow.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Exhibition Centre 
+

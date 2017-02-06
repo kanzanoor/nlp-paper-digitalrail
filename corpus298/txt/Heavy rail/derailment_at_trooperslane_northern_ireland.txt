@@ -1,0 +1,23 @@
+
+  On 23 April 2006 a Northern Ireland Railways engineering train, consisting of a tamper towing a ballast regulator, partially derailed at Trooperslane level crossing. The torque arm of the ballast regulator, which had become partially detached, hit the road surface panels of the crossing, and caused the derailment of the ballast regulator. The tamper did not derail, but there was damage to the track and level crossing itself.
+
+The immediate cause of the derailment was the torque arm lifting the ballast regulator off the track. The sole causal factor was the omission of a split pin from the upper torque arm securing pin. Contributory factors were the lack of a check process on the security of the torque arm, and the lack of a cross reference to the operations manual. The underlying cause of the derailment was the designed installation of two bolts where the torque arm meets the headstock of the regulator, where a single failure could cause catastrophic results.
+
+RAIB has made eight recommendations as a result of the report, aimed at:
+
+
+  maintenance and operational issues including training and incident management on Northern Ireland Railways
+  access for the manufacturer of the regulator to the National Incident Room reporting system for the mainland of Great Britain.
+
+
+R252007-070718-Trooperslane.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body.
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Trooperslane
+

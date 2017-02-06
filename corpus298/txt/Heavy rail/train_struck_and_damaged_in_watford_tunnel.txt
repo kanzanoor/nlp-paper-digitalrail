@@ -1,0 +1,22 @@
+
+  At around 07:19 hrs on 26 October 2014, train 2K00, the 06:42 hrs Milton Keynes Central to Euston passenger service struck an open door of a lineside equipment cabinet while travelling through Watford Tunnel. The cabinet door detached from its hinges, hitting the side of the train and damaging a door on one of the carriages. The damage to the train door caused a safety circuit to detect that the door was no longer properly closed and the train’s brakes were applied automatically. On examining his train, the driver found that a door on the fourth carriage had been severely damaged. Passengers in this carriage also reported they had been showered by flying glass from the damaged door, although none reported any injuries.
+
+RAIB’s investigation found that the cabinet door had opened under aerodynamic forces as the train passed, probably because the door had been left closed, but unsecured, during work that had been taking place on equipment in the cabinet overnight. A number of reasons that may explain why the door had been left unsecured were identified, including poor task lighting, the methods that had been employed during the work overnight, no-one being allocated the responsibility for checking that cabinet doors were closed and secured and the possibility that the staff involved may have been suffering from fatigue, making it more likely that a mistake would be made. An associated underlying factor was that Siemens, the employer of the staff involved, had not fully implemented its policy on fatigue management.
+
+The cabinet involved had been installed recently as part of a re-signalling project for the Watford area. It was equipped with two doors with side hinges and had been positioned such that an open door could be struck by a train. An underlying factor was that the risk of this happening had not been identified when this design of cabinet was selected for use in Watford Tunnel. Previous risk assessments undertaken during the period when the cabinet was originally subject to product acceptance were not available to the project team or Henry Williams Ltd, the manufacturer of the cabinet involved.
+
+RAIB has made six recommendations. Four recommendations have been made to Network Rail, covering processes for handing back sections of railway after engineering work, its policy on locating lineside equipment in areas of restricted clearance, the design of lineside equipment for areas of restricted clearance and improvements to its product acceptance processes so that previously undertaken risk assessments are available to future users of individual items of equipment. One recommendation has been made to Siemens UK Ltd in respect of the implementation of its policies on staff welfare (including fatigue management), and one recommendation has been made to Henry Williams Ltd in conjunction with Network Rail to make sure that it has full details of the certification of its products used on the railways.
+
+RAIB has also identified two learning points. The first relates to the adequacy of task lighting and the need for staff on site to reach a clear understanding about who will be responsible for closing cabinet doors. The second is a reminder of the need for staff involved in projects to implement existing processes for risk assessment and product acceptance.
+
+R122015_150813_Watford_Tunnel
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Watford Tunnel
+

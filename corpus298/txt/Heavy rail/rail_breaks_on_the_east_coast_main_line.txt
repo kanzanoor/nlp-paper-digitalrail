@@ -1,0 +1,24 @@
+
+  This class investigation considers the occurrence and management of rail breaks on Network Rail’s East Coast Main Line (ECML). It includes consideration of rail breaks which occurred at three locations during 2012 and 2013 and which, together with reports that the occurrence of rail breaks on the ECML was relatively high, triggered the investigation. None of these three rail breaks resulted in injuries or damage to trains.
+
+A rail break at Corby Glen, near Grantham was triggered by wear of the pad intended to separate the rail from the underlying concrete sleeper. Breaks at Copmanthorpe, near York, and at Hambleton, about 15 miles (24 km) south of York, were due to movement at rail joints caused by inadequate support from the underlying ground.
+
+Rail break statistics show that, after allowing for differences in route length and the amount of traffic, the ECML has more rail breaks than comparable main lines. After considering both the types of rail break occurring on the ECML and the measures being taken by Network Rail to manage these, the investigation concluded that the most significant factor in the relatively high number of rail breaks on the ECML between 2009 and 2013 was the relatively high proportion of older track.
+
+Network Rail has recognised the relatively high level of rail breaks on the ECML and is replacing older track components on this line. It has also altered the maintenance criteria on the ECML to increase the likelihood of replacing moving (dipped) joints before they cause rail breaks. These measures appear to be reflected in a recent reduction in the occurrence of rail breaks.
+
+RAIB has made four recommendations relating to rail breaks and addressed to Network Rail. The first seeks research to improve detection of the very small precursor cracks which usually occur in rails a significant period before the rail breaks. The second relates to the wider adoption of lessons learnt from managing rail breaks on the ECML while the third seeks a routine process for identifying and replacing defective rail pads. The fourth recommendation seeks implementation of improved techniques for detecting precursor cracks if trials using equipment recently fitted to Network Rail’s test trains (ultrasonic testing units) prove successful.
+
+A fifth recommendation, also addressed to Network Rail, arises from an observation not directly related to rail breaks and deals with improved highlighting of updated information in safety critical documents.
+
+R242014-141113-ECML-Rail-Breaks.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for East Coast Main Line rail breaks
+

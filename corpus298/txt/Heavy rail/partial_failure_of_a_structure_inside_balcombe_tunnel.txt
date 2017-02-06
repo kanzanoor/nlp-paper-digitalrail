@@ -1,0 +1,20 @@
+
+  Early on the morning of 23 September 2011, the crew of an engineering train passing through Balcombe tunnel observed that part of a large steel structure mounted in the roof of the tunnel, spanning over both railway tracks, was sagging down. An emergency inspection found that on one side of the structure, three supports had become detached from the tunnel lining leaving a 12 metre length partially supported.
+
+The structure, one of six within the tunnel, was intended to catch water dripping from the tunnel roof. It was supported by anchor studs fixed with polyester resin into holes drilled in the tunnel’s brick lining. Within the tunnel, 18 studs (5%) were found to be missing and a further five studs were loose. The RAIB’s investigation has found that this connection was inadequate because the resin was not compatible with the tunnel brickwork and may have been adversely affected by shrinkage and the damp conditions in the tunnel. It is probable that the resin was selected using inadequate technical data and probable that insufficient resin was placed around some studs. Although some railway staff were aware that studs had fallen from the structure on more than one occasion since 2008, this did not result in appropriate risk mitigation. This was because of inadequacies in the reporting of these events and because there was insufficient support for a member of railway staff who was managing some aspects of the tunnel maintenance but had limited experience. Inadequate access for tunnel examinations due to conflicting demands on the limited available access is considered to be an underlying factor.
+
+RAIB has identified three learning points from this incident: the need to consider the adequacy of information contained in manufacturer’s data sheets; the need to maintain awareness of published information; and the benefit of marking significant tunnel defects such that they are visible from track level.
+
+RAIB has made nine recommendations addressed to Network Rail that focus on managing existing polyester resin connections and controlling the future use of this material; confirming the compatibility of materials during design work; effective responses to defects and abnormal events; competency of staff managing structures; access for examining structures; the examination process for structures in tunnels; and retention of records relating to structures.
+
+R132013-130815-Balcombe-Tunnel.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Balcombe Tunnel
+

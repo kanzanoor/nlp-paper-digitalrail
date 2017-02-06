@@ -1,0 +1,21 @@
+
+  On 22 March 2009 as a passenger train traversed Greenhill Upper Junction, one of the trailing point ends, forming a set of switch diamonds, was in the incorrect position as the train trailed through them.  It forced the switch blades to the correct position causing damage to the mechanism.  The train was not derailed and continued normally to its destination.  There were no injuries caused to either train crew or passengers, and there was no damage to the train. 
+
+The immediate cause of the incident was that the points were detected in the reverse position by the signalling system although the point ends were in the normal position.  This allowed the protecting signal to clear to a proceed aspect for train 2N50 which subsequently trailed through the point ends.
+
+The causal factors were that extra wiring was incorrectly installed in the point machine which was not detected before installation on site at Greenhill Upper Junction; the site testing carried out at Greenhill Upper Junction on 18 January 2009 was not carried out correctly; the indications on the signaller’s NX panel were not correctly responded to during the out of correspondence testing; and the point ends were not switched back onto powered operation on 22 March 2009.
+
+RAIB has made six recommendations concerning: the advance planning, carrying out and testing of pre-site work where project type work is carried out under the maintenance testing arrangements; the correct and intended method of points testing; the creation of a new process suitable for small scale project work that fits between the arrangements required by works and maintenance testing; the documentation of specific stages of testing; and updating maintenance drawings following alterations made.
+
+R042010-100318-Greenhill-Upper-Jcn.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Greenhill Upper Junction
+
+

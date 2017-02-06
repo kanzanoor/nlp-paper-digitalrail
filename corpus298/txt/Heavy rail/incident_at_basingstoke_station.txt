@@ -1,0 +1,33 @@
+
+  At 10:13 hrs on 19 December 2008, a shipping container, which was loaded on a freight train travelling from Wakefield Europort to Eastleigh, struck the canopy above platform one at Basingstoke station at about 25 mph (40 km/h)as the train passed through. The canopy was damaged over a length of 130 m, and pieces of wood were scattered along the platform. No-one was hurt.
+
+The immediate cause of the incident was that the combination of the container and the type of wagon it had been loaded onto was too high for the route on which the train was travelling, allowing the left-hand top corner of the container to strike the canopy.
+
+The system for identifying container types and container / wagon combinations was prone to human error, in that:
+
+
+  the container and wagon combination involved was not permitted on the route the train took
+  incorrect information about the container was recorded by the train preparer at Wakefield, who did not correctly identify during his train examination the container type was incorrect for that particular wagon and route
+  the decision of staff at Southampton to change the type code of the container on the computer system without checking with the Wakefield terminal
+  the gauge to identify over-size trains at Wakefield was not operational.
+
+
+As a consequence of this accident, the RAIB has made three recommendations, all targeted at DB Schenker, the operator of the train. These cover the following areas:
+
+
+  a review of the activities at its terminals, to introduce systems to minimise the incidence of out-of-gauge loads
+  examination of the feasibility of revising the container storage and handling arrangements at Wakefield Europort to reduce the likelihood of confusion between different box sizes
+  in co-operation with other system users as appropriate, requesting that the computer system that controls container movements be revised to highlight alert messages that may be safety critical
+
+
+R212009-090812-Basingstoke.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Basingstoke
+

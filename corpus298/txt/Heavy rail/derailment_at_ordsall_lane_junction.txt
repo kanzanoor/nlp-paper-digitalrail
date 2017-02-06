@@ -1,0 +1,31 @@
+
+  At 14:34 hrs on 23 January 2013 a class 47 diesel electric locomotive derailed on a small radius curve, approaching Ordsall Lane Junction in Salford, and caught fire. The locomotive derailed to the outside of the curve. It was being hauled on the rear of an empty train, which was formed of another class 47 locomotive and five coaches.
+
+The cause of the derailment was that the lateral forces acting at the wheel-rail interface, as the locomotive negotiated the curve, were sufficient to cause the leading right-hand wheel to climb the rail. Despite being required by standards, there was no check rail on the curve. This safeguard would have restricted the lateral displacement of the wheels and prevented the derailment.
+
+The RAIB found that the following factors had resulted in the lateral forces being high enough to initiate wheel climbing conditions:
+
+
+  The dry and clean state of the inside face of the outer rail on the curve that enabled high levels of wheel-rail contact friction to be established; recently-modified arrangements for lubricating the rails did not prevent this
+  Machining work that had recently been undertaken to restore the wheel profiles on the locomotive; this removed any pre-existing lubricant and contaminant from the locomotive wheels that would otherwise have helped reduce wheel-rail contact friction levels
+  The relatively low angle of contact between the wheel and rail associated with the newly-restored wheels on the locomotive; this reduced the locomotive’s ability to resist the climbing forces acting at the wheel-rail interface
+  The wider than normal distance between the rails (track gauge) that had developed on the curve.
+
+
+The above combined to generate the conditions necessary for derailment, but none of these factors involved non-compliance with applicable standards.
+
+Although it was found that the reprofiling of the wheels had left the wheel surface slightly rougher than specified, the RAIB decided not to investigate this factor any further. This was because the surface was only marginally non-compliant and there is contradictory evidence regarding its effect on wheel-rail friction.
+
+The basic approach to managing the risk of derailment on small radius curves on the national network relies on vehicles and track complying with separate technical standards. However, because these standards do not require consideration of the worst possible combination of conditions, there remains a residual risk of derailment. It is generally recognised by the railway industry that the level of this residual risk is reduced by certain traditional features, such as check rails and trackside rail lubricators. Therefore, although not generally relied upon, RAIB observed that any change in the provision of such features has the potential to reduce the overall level of derailment safety. 
+
+R072014-140331-Ordsall-Lane-Junction.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Ordsall Lane Junction
+

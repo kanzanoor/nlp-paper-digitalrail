@@ -1,0 +1,18 @@
+
+  Shortly after 14:00 hrs on 8 January 2013, a train travelling from South Shields to St James on the Tyne and Wear Metro system experienced an electrical fault soon after it left South Gosforth station. A fire developed under the rear car of the two-car train as it came to a stand, and smoke entered the passenger accommodation. There were 45 passengers in the rear car, and they used the emergency handles to release the doors, and evacuated themselves onto the side of the line, with assistance from the driver of the train. No-one was hurt, but there was damage to the electrical equipment and wiring of the rear car, and the overhead electrical supply line parted during the fire. The accident occurred on an above-ground section of line; if it had taken place in a tunnel, the amount of smoke that was produced during the fire might have resulted in serious consequences.
+
+The fire was caused by a fault within the line breaker case of the rear car, and was sustained because the protection system associated with the electric power supply to the train did not operate until 45 seconds after the fault started.
+
+RAIB has made one recommendation addressed to the infrastructure manager and two addressed jointly to the infrastructure manager and train operator of the Tyne and Wear Metro, covering the fault in the line breaker, the radio system in use on the network, and the maintenance of the emergency door release handles on the Metro cars.
+
+R182013-130925-South-Gosforth.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for South Gosforth
+

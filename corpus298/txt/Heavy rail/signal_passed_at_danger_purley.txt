@@ -1,0 +1,28 @@
+
+  On 18 August 2006 a freight train travelling from Purley yard to Acton yard passed signal T172 at danger by 35 metres, following a shunting move at Purley station. The freight train was stopped by a Train Protection Warning System (TPWS) intervention. The driver immediately reset the equipment without speaking to the signaller, and continued his journey. The freight train was finally stopped by the driver at signal T160 at Purley Oaks station, which had been changed to show a red aspect. There were no injuries as a result of the incident.
+
+The immediate cause of the Signal Passed at Danger (SPAD) was that the freight train driver incorrectly assumed that the adjacent signal, which was green, applied to him. The main causal factors of the SPAD were the driver positioning his locomotive incorrectly, and that no specific stop marker had been provided.
+
+The immediate cause of the resetting of the TPWS incident was that the driver did not apply proper procedures after the intervention. The main causal factors were driver confusion, the incorrect assumption that an adjacent signal applied to his line, and the driver’s lack of awareness and understanding of TPWS.
+
+RAIB has made five recommendations as a result of the report, aimed at:
+
+
+  train shunting procedures at Purley station; 
+  training for TPWS procedures
+  procedures for checking local ‘method of work’ instructions
+  Railway Group standards on TPWS procedures
+  safety procedures for shunters at Purley station.
+
+
+R272007-070808-Purley.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body.
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Purley
+

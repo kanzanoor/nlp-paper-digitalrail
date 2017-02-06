@@ -1,0 +1,31 @@
+
+  At 07:19 hrs on 5 January 2012, the pantograph assembly fell from the roof of a passenger train, breaking two windows on its way to the ground. The train, the 06:51 hrs service from Kings Lynn to London King’s Cross, was travelling at approximately 80 mph (129 km/h), about 2 miles (3.2 km) south of Littleport, in Cambridgeshire, when the accident happened. The train stopped 1.75 miles (2.8 km) after the accident location.
+
+One passenger received treatment for minor cuts at the site, and two others suffered minor shock but did not require medical treatment. There was extensive damage to the overhead line equipment and minor damage to the train body.
+
+The investigation identified that the pantograph head had lost contact with, and risen above, the overhead line, resulting in the pantograph arm hitting a cantilever overhead line support structure. This impact broke the electrical insulators on which the pantograph assembly was mounted, allowing it to fall from the roof.
+
+The pantograph head lost contact because the overhead line was deflected from its intended position due to a combination of long term movements of the overhead line support mast foundations and the force of the wind at the time of the accident.
+
+The RAIB concluded that maintenance of the overhead line had not been carried out in accordance with Network Rail standards, meaning that the overhead line had not been adjusted to allow for long term foundation movements.
+
+The RAIB has made two recommendations to Network Rail. They are concerned with:
+
+
+  ensuring that the risk associated with the authorisation of non-compliances with maintenance standards are assessed and mitigated
+  providing overhead line maintenance personnel with information that allows them to effectively manage overhead line alignment.
+
+
+The RAIB has also identified a learning point for the railway industry concerning the possible use of polymeric or composite insulators to support pantographs.
+
+R062013-130520-Littleport-V2.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Littleport 
+

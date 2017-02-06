@@ -1,0 +1,35 @@
+
+  At about 17:52 hrs on 27 July 2011, an empty passenger train derailed while traversing points in the Princes Street Gardens area, on its approach to Edinburgh Waverley station. The leading bogie of the third coach of the three-coach train derailed and travelled derailed for approximately 110 metres. The derailment occurred at slow speed and the train remained upright. The driver and conductor, the only occupants of the train, were uninjured. The derailment affected two lines which were closed until 29 July 2011.
+
+The investigation found that the first wheel to derail was not correctly steered by the moveable switch rail to the correct route. Instead the wheel climbed over the rail, pulling the other wheels of the bogie into derailment.
+
+The most likely cause of the derailment was that the angle of the switch rail, possibly aided by an increase in friction, enabled the wheel to climb the switch rail.
+
+Three days prior to the accident the left-hand switch rail had been identified as having the potential to cause derailment. Although it was worn beyond repair by grinding in accordance with the company standard, a grinding repair was attempted. The subsequent inspection process did not find the switch to be unsafe and it remained in service.
+
+The required prior scoping of the repair, which might have identified the unsuitability of the switch rail for repair by grinding, was not carried out.
+
+The local practice of maintaining points to safety limits and the lack of guidance on when a switch rail is unrepairable by grinding were underlying factors in this accident.
+
+RAIB has made five recommendations to Network Rail relating to:
+
+
+  the provision of maintenance intervention limits on switches
+  the need for a review of the relevant standard to provide assurance that it addresses all potential derailment mechanisms on switches and to clarify its requirements
+  the development of a more accurate method for gauging the angle of switch rails
+  the increased use of automatic lubrication on switches vulnerable to wear
+  the need to review and address the recurrence of factors in this accident which were previously identified by the RAIB in investigations of similar derailment.
+
+
+R182012-120830-Princes-St-Gardens.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Princess Street Gardens
+
+

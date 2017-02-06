@@ -1,0 +1,25 @@
+
+  At about 04:50 hrs on 27 December 2012, a freight train derailed about 1 mile (1.6 km)north of Barrow upon Soar station, Leicestershire. One of the rails of the line on which the train was travelling, dipped due to the failure of the supporting embankment. The locomotive and first ten wagons remained on the track, the eleventh and twelfth wagons derailed, the thirteenth remained on the track and the rear seven, which separated from the rest of the train, derailed and tipped over. No one was hurt but the track, the embankment and some of the wagons were damaged.
+
+The investigation found the embankment failed under the weight of the passing train because water within the embankment had reduced its stability and none of Network Rail’s processes had identified this. It is possible that an evaluation of the embankment could have identified the reduced stability, but the circumstances for triggering an evaluation were unclear, and there was no defined process for reporting trigger events. The investigation also observed that the evaluation process did not make use of rainfall data, or data that showed how the geometry of the track on top of the embankment was changing over time. An additional inspection during flooding could possibly have identified the embankment’s reduced stability. However, none was required at this location as Network Rail did not consider how the embankment was constructed when assessing the risk of an earthwork failure due to water. It is also possible that the embankment’s reduced stability could have been identified by a routine examination, but none was due. A basic visual track inspection had been planned for three days before the accident but it was not completed. It is possible that this planned inspection would have found a track defect which could have led to the discovery of the embankment’s reduced stability.
+
+The report makes three recommendations, all to Network Rail, which cover:
+
+
+  the provision of information to trigger an earthwork evaluation
+  using track geometry and rainfall data to improve the earthwork evaluation process
+  improving the process used to decide if an earthwork should be inspected when a flood warning is issued.  
+
+
+R222013-131211-Barrow-Upon-Soar.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Barrow upon Soar
+
+

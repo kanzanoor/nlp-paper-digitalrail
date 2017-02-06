@@ -1,0 +1,30 @@
+
+  At around 17:25 hrs on Saturday 7 March 2015, train reporting number 1Z67, the 16:35 hrs steam hauled charter service from Bristol Temple Meads to Southend, passed signal SN45 at danger. Signal SN45, which is situated on the approach to Wootton Bassett Junction, was being maintained at danger to protect the movement of a scheduled passenger train. At the time that the incident occurred, this scheduled passenger train had already passed through the junction. No injuries, damage or derailment occurred as a result of the incident. 
+
+Train 1Z67 was operated by West Coast Railways and consisted of the steam locomotive ‘Tangmere’ and 13 coaches. Although Tangmere is a heritage locomotive, it is fitted with modern safety systems including the Automatic Warning System (AWS) and the Train Protection and Warning System (TPWS).
+
+RAIB’s investigation has found that signal SN45 was passed at danger because the driver did not reduce the train’s speed on approach to the signal. This meant that he was unable to stop the train in time, once he realised it was at danger. The driver had not reduced the train’s speed because he had not seen the preceding signal, which was at caution and should have alerted him that SN45 was at danger. He missed this preceding signal because he had become distracted by activity within the cab and possibly also because he was experiencing a higher workload than normal. 
+
+Train 1Z67 also passed signal SN45 at danger because the TPWS system was unable to reduce the speed of the train by automatically applying the brakes. This was because TPWS had been rendered ineffective by Tangmere’s crew when they had isolated the AWS system in order to by-pass an automatic brake application which had occurred at a speed restriction. Isolating AWS in this way was in contravention of the relevant rules but the RAIB has found that it had almost certainly become an accepted practice among some train crews on this locomotive. This was probably because warnings from AWS were not always apparent to drivers, who were also anxious to avoid delays resulting from brake demands. Measures intended to prevent the misuse of AWS isolations had either not been adopted by West Coast Railways or had not been effectively implemented. 
+
+The RAIB found three underlying factors. These were that the AWS system on Tangmere was installed in a way which meant that warnings from the system were not always apparent to drivers. In addition, the investigation found that a speed restriction which was in place on approach to the junction was based on incorrect information and had been implemented in a way which did not conform to the relevant rules and standards.  The investigation also found that West Coast Railways had a weak safety culture and that this had affected the way its staff observed rules and instructions.
+
+As a result of this incident, RAIB has made five recommendations. One recommendation is addressed to RSSB, working in conjunction with steam train operators and Network Rail, and relates to a review of the arrangements intended to assess, prevent and mitigate the risks associated with steam movements.  
+
+Three recommendations are addressed to West Coast Railways. These relate to a review of its safety management system and safety culture; the implementation of industry best-practice concerning the management of drivers’ knowledge of operating routes; and the arrangements for maintaining on train data recorders.  
+
+One recommendation is addressed to Network Rail. This concerns the way that emergency and temporary speed restrictions are designed and implemented.
+
+RAIB has identified one key learning point. This is that allowing safety critical systems such as AWS and TPWS to function without improper interference is vital to the safe operation of the railway. By-passing safety systems, or isolating them other than in accordance with the requirements of the relevant rules, can have catastrophic consequences.
+
+R082016_160505_Wootton_Bassett
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Wootton Bassett Junction
+

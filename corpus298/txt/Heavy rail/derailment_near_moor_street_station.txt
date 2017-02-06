@@ -1,0 +1,20 @@
+
+  At 6:37am, 25 March 2008, a train of empty wagons derailed whilst travelling at 15mph (24 km/h) on a viaduct to the south of Birmingham (Moor St.) station. Of the four wagons that derailed, two overturned and one of these hit and demolished a 10 metre section of parapet wall. The wall fell approximately 20 metres onto private ground below, severely damaging an unoccupied, parked car.
+
+The RAIB investigation identified that the immediate cause of the accident was that the wheel of one of the wagons rode over the rail at the location of a severe track twist. Causal factors were that the track geometry was not compliant with industry standards, and that the track twist had not been detected or corrected. The underlying factor was that Network Rail did not identify the contribution that voids under the sleepers were making to the derailment risk in this area, and did not implement measures to control the risk.
+
+RAIB has made two recommendations as a result of this accident. These concern the design and maintenance of the track near Moor Street station, and methods to improve the identification of voids under sleepers.
+
+One further recommendation is targeted at DB Schenker Rail (UK) Ltd, the train operator, which was trading as English, Welsh & Scottish Railway Ltd at the time of the accident. This relates to ensuring that wagons are maintained at the intervals specified in company procedures.
+
+R072009-090318-Moor-Street.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body.
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Moor Street
+

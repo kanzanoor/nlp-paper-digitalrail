@@ -1,0 +1,67 @@
+
+  A summary of the key points from the report is included below -
+
+The derailment and the subsequent response
+
+On Friday 23 February 2007 a Virgin West Coast train from London Euston to Glasgow derailed on 2B points at Lambrigg, near Grayrigg in Cumbria, while travelling at the authorised speed of 95mph (153 km/h). All nine carriages of the Class 390 Pendolino were derailed. There were at least 105 passengers and four crew on board. One passenger was fatally injured, 28 passengers, the train driver and one other crew member were seriously injured, and 59 passengers received minor injuries.
+
+The immediate cause of the derailment was the deterioration of 2B points through a combination of failures of the three stretcher bars, the lock stretcher bar, and their fastenings. This allowed the left-hand switch rail to move into an unsafe position close to its stock rail, without losing signalling detection. This came about as a result of a combination of three factors, which were:
+
+
+  the mechanical failure of a bolted joint
+  the incorrect set up the points
+  a track inspection that was missed on 18 February 2007.
+
+
+All three factors were necessary for the accident to occur.
+
+Contributory factors to the missed inspection included limited access times for maintenance of the West Coast Main Line at Grayrigg.
+
+Underlying factors included:
+
+
+  Network Rail, perceived, based on the performance to date, that the risk associated with this design of S&C was low
+  within Network Rail there was an incomplete understanding of the design, maintenance and inspection of the design of stretcher bars used in 2B points due to the limited application of a risk-based assessment.
+
+
+In the thirty five years since the design of points used in 2B points was introduced there has been no previous catastrophic accident associated with the type of stretcher bars used in the design.
+
+Immediately after the accident Network Rail carried out an extensive check of points on their system. Although some defects were found there were no other stretcher bars in a similar state to that of 2B points, with all three factors present.
+
+As a result of the emerging findings from the investigation RAIB issued Urgent Safety Advice to the industry relating to: the inspection and maintenance of points on 6 June 2007; and the design of fastener systems, and their relevant to inspection processes, on 26 November 2007. This advice was sent to Network Rail, and also to Nexus, Manchester Metrolink, Northern Ireland Railways and London Underground, who all use a similar design of points.
+
+Network Rail has reported it is taking steps to improve the set up and inspection of points similar to 2B points, and has strengthened its management of these activities. New instructions have also been issued for the standardisation of track inspection.
+
+Network Rail is now carrying out work to assess the design of this type of points in order to assess any modifications to the design and maintenance/inspection regime.
+
+Potters Bar
+
+All of RAIB’s investigations consider the relevance of previous similar occurrences. In this context RAIB considered the accident at Potters Bar in May 2002 where seven persons lost their lives. Whilst the type of points involved were different, a recommendation made by the Potters Bar Investigation Board (dated May 2003) identified the need for Network Rail to apply a risk-based approach to the management and maintenance of its points assets based on an understanding of the design and safety requirements. Network Rail had accepted the value of such an approach but did not consider its application to existing points with non-adjustable stretcher bars to be a priority.
+
+The train
+
+The train performed better than has been seen with earlier designs of trains in previous accidents. The passenger and crew areas were not significantly compromised; only two windows did not fully retain people within the carriages, the bogies did not separate form the carriage bodies. However, RAIB considers that safety could be improved by improving the design of seat mountings, and the lighting panels above the seats and has made further recommendations for the study of rail vehicles in ‘roll over’.
+
+The rescue
+
+The rescue of the passengers by the emergency services was swift, proportionate and well co-ordinated. However, RAIB has identified some areas where further improvements could be made.
+
+Recommendations
+
+RAIB has made twenty-nine safety recommendations. Twenty-one of these are directed at Network Rail. The primary long-term recommendations relate to a review of the design, inspection and maintenance of points, and particularly non-adjustable stretcher bar systems as used on 2B points. The short-term recommendations relate to mitigation of the risk from points in advance of the implementation of the longer- term recommendations. Further recommendations are targeted at Network Rail to address the underlying technical and managerial issues, and an issue of fatigue of staff.
+
+Eight recommendations are directed at other organisations. They primarily deal with issues relating to: the behaviour of the train as a consequence of the derailment; and the rescue services.
+
+The Office of Rail Regulation (ORR), the safety regulator for the railway industry, broadly supports the report and the findings. The responsibility of the ORR is to ensure that the recommendations that are directed at industry parties are duly taken into consideration and where appropriate acted upon. The ORR then has to report back to RAIB on the measures taken to implement the recommendations or explain why measures have not been taken.
+
+R202008-081023-Grayrigg-v5.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Grayrigg
+

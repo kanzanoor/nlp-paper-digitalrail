@@ -1,0 +1,18 @@
+
+  At about 18:50 hrs on 23 November 2013, while a steam-hauled passenger train from London Waterloo to Weymouth was approaching Winchfield in Hampshire at about 40 mph (64 km/h), the right-hand connecting rod of the locomotive became detached at its leading end (referred to as the small end), which dropped down onto the track. The driver stopped the train immediately, about one mile (1.6 km) outside Winchfield station. There was some damage to the track, but no-one was hurt. The accident could, in slightly different circumstances, have led to derailment of the train.
+
+The immediate cause of the accident was that the small end assembly came apart, allowing one end of the connecting rod to drop to the ground. The reasons for this could not be established with certainty because some components could not be found after the accident. It is possible that the gudgeon pin securing nut unwound following breakage of the cotter and previous loosening of the nut. A possible factor is that the design of some components had been modified during the restoration of the locomotive some years earlier, without full consideration of the possible effect of these changes. There were deficiencies in the design and manufacture of the cotter. It is also possible, but less likely, that the securing nut split due to an inherent flaw or fatigue cracking.
+
+RAIB has made four recommendations, directed variously to West Coast Railway Company, the Heritage Railway Association, and the Main Line Steam Locomotive Operators Association. They cover the maintenance arrangements for steam locomotives used on the national network, a review of the design of the small end assembly on the type of locomotive involved in the accident, guidance on the design and manufacture of cotters, and assessment of risk arising from changes to the details of the design of locomotives.
+
+R132014-140616-Winchfield.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Winchfield
+

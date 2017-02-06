@@ -1,0 +1,24 @@
+
+  On 23 January 2013, train 1P18, the 10:00 hrs Greater Anglia service from London Liverpool Street to Norwich, derailed near London Liverpool Street.
+
+The train comprised nine coaches pushed by a locomotive, and had just left platform 13. A total of 17 wheelsets derailed on a tight curve and, as the train proceeded, all the wheelsets were guided back onto the correct rail within a distance of 40 metres.
+
+The driver was unaware of any problem until the senior conductor told him that passengers had reported a rough ride and the signaller advised him that the signalling system had identified a problem at a set of points used by the train when leaving Liverpool Street. The driver then stopped and examined his train at Shenfield, but saw nothing unusual. No one appreciated that there had been a derailment until the train was examined by a specialist inspector when it arrived at Norwich and, at about the same time, a signal maintenance team found track damage close to Liverpool Street station.
+
+The train derailed on the curve because the track fixings had deteriorated over a period of time. This tight curve and other non-standard trackwork at Liverpool Street should have triggered consideration of mitigation measures to deal with the associated enhanced derailment risk. The investigation found that no consideration had been given to these enhanced risks because the maintenance management staff did not have the knowledge necessary to appreciate the need for, and to undertake, this activity. This lack of knowledge had not been appreciated by more senior staff. The Network Rail procedures for establishing a track inspection and maintenance regime for non-standard track did not require the regime to be independently checked.
+
+RAIB has identified six learning points and three recommendations. One learning point relates to effective communication between train and incident controllers when dealing with events which could be associated with urgent safety issues. A second learning point restates the relevance of Network Rail’s existing requirements for verifying maintenance management staff competencies relevant to risk assessing track assets. Three learning points refer to the need for a complete record of assets requiring maintenance, the importance of looking for signs of rail movement when inspecting track and the correct use of data obtained from a commonly used track geometry measurement device (an Amber trolley). The final learning point refers to the need for proper archiving of inspection records.
+
+The three recommendations are all addressed to Network Rail. The first relates to providing assurance that suitable inspection regimes are established, recorded and validated for non-standard track assets. The second recommendation is intended to ensure assessment of management staff’s safety critical track related competencies to ensure they have the necessary experience and knowledge to perform that role. The third recommendation seeks a review and, if necessary, improvement of the competency assessment processes applicable to managers with safety critical roles linked to the maintenance of assets other than track.
+
+R272014_141211_Liverpool_Street.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Liverpool Street station, London
+

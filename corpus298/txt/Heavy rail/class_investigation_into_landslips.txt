@@ -1,0 +1,24 @@
+
+  In response to six landslips which occurred on Network Rail infrastructure between June 2012 and February 2013, RAIB has undertaken a class investigation into earthwork issues related to land neighbouring the railway and to risk management during adverse weather. The landslips occurred at Loch Treig (near Tulloch) on 28 June 2012, at Falls of Cruachan (on the line to Oban) on 18 July 2012, at Rosyth (near Edinburgh) on 18 July 2012, at St Bees (Cumbria) on 30 August 2012, at Bargoed (South Wales) on 30 January 2013 and at Hatfield Colliery (South Yorkshire) on 11 February 2013.
+
+The landslips were caused by factors including heavy rain, absent or ineffective drainage and activities undertaken, or not undertaken, on neighbouring land. In several instances trains were being operated without special precautions when there was a significant risk of encountering a landslip.
+
+Many of Network Rail’s earthworks were constructed with steeper slopes (and therefore a greater likelihood of landslips) than would be achieved with modern design procedures. Network Rail’s on-going earthwork improvement programme is unlikely to achieve modern criteria in the foreseeable future.
+
+Network Rail’s process for managing the resulting earthwork risk includes consideration of risk arising outside the railway boundary. RAIB has found that, in some circumstances, key information provided by specialist staff examining earthworks is not considered when the slope management strategy is determined during evaluation. There is a lack of clarity about who should be carrying out visual checks for risks which can develop on neighbouring land between examinations which take place at intervals of up to ten years. The mandated process for collecting information about neighbouring land is, in parts, difficult to implement and not usually followed. Recent technological developments could offer means of improving the collection of this information.
+
+The location and timing of landslips is difficult to predict but they are almost always triggered by relatively high rainfall. When the landslips described in this report took place, Network Rail’s adverse weather risk management process used forecasts of heavy rainfall to implement special precautions at locations where landslips were considered relatively likely. During the investigation, Network Rail has introduced a new process which also takes account of ground saturation and (in addition to likelihood) the possible consequence of a landslip.
+
+The RAIB has made five recommendations, addressed to Network Rail, relating to improving management of earthwork and drainage risk arising from neighbouring land; considering all information provided by examiners when undertaking evaluations; and enhancing the new adverse weather risk management process.
+
+R082014-140402-Landslips.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for landslips 
+

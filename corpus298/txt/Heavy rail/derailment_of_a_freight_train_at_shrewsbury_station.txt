@@ -1,0 +1,22 @@
+
+  At around 14:13 hrs on 7 July 2012, the leading bogie of the 16th wagon of a freight train derailed all wheels to the left as it passed over a set of points at the north end of Shrewsbury station whilst travelling at 14 mph (22 km/h). The bogie ran derailed for 65 metres causing significant track damage in the process before the train was brought to a stop. There were no injuries as a result of the derailment but the wagon suffered damage.
+
+The immediate cause of the derailment was that the points were unsafe to negotiate because of wear and damage. The degradation of the points since the last detailed inspection had not been prevented by the maintenance regime nor had it been identified by the inspection regime.
+
+The inspection regime in place at Shrewsbury at the time of the derailment was inconsistent with the risk-based approach intended by Network Rail’s standard aimed at preventing derailment on points. Shrewsbury maintenance delivery unit misinterpreted the intent of this standard, when it was modified in 2008, and ceased regular detailed inspections of the points (this misinterpretation may not have been limited to the Shrewsbury delivery unit). Instead, the inspection regime at Shrewsbury relied solely on a weekly visual inspection by a patroller and a 13-weekly visual inspection by a supervisor. Neither of these inspections triggered the need for a detailed inspection which could have revealed the degradation and the need for remedial actions.
+
+The RAIB has made four recommendations and identified a learning point. The first recommendation is for Network Rail to ensure that the risk-based approach intended by the standard covering the risk of derailment on points is re-briefed to all delivery units including Shrewsbury. The second recommendation is for Network Rail to incorporate the findings from this investigation into its review of the standard covering the risk of derailment on points. This review started following the accident at Princes Street Gardens in Edinburgh in July 2011 and the publication of the RAIB report in August 2012. The third recommendation is for Network Rail to consider whether it needs to mandate the removal of grease and residue on points during the visual inspection by supervisors. The fourth recommendation is for Freightliner to ensure that it has arrangements in place to assess the risk of continued operation when it has identified deficiencies in its maintenance operations.
+
+The learning point is about the importance of providing training and assessment modules when requiring specific competences in standards covering safety critical activities.
+
+R082013-130722-Shrewsbury.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Shrewsbury 
+

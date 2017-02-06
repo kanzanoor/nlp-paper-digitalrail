@@ -1,0 +1,20 @@
+
+  At about 16:00 hours on 1 August 2013, concrete cladding fell from the bridge spanning Denmark Hill station, London, and most of the debris landed on platform 1. The fallen concrete was reported by two train drivers and train services were stopped on the line closest to the fallen concrete. Fortunately no-one was struck and there was no damage to trains. However, train services were disrupted until 02:48 hrs the following day while emergency repairs were carried out.
+
+The concrete cladding had been added to the bridge structure in about 1910 and fell because of gradual deterioration of the fixing arrangements. Deterioration of the cladding fixing arrangements had been reported to Network Rail over a period of at least four years but the resulting actions taken by Network Rail and its works contractor were inadequate.
+
+RAIB has identified several factors which led to the absence of appropriate remedial work. Urgent repairs were not implemented in a timely manner and information collected by examiners was not entered promptly onto Network Rail’s asset management database (CARRS). Communications between Network Rail’s asset management and works delivery team were sometimes ineffective. Remedial work was not always precisely specified, staff implementing the work sometimes lacked the necessary competencies, and processes for verifying completion of remedial work were inadequate. Repeated reports of the same defect should have, but did not, led Network Rail to recognise that remedial works instructions were not achieving the intended effect. The high workload of some staff is a possible factor. Non-compliance with Network Rail’s maximum permitted intervals between bridge examinations was noted but was not a factor in the incident.
+
+RAIB has made one recommendation and identified one learning point in addition to referencing previous RAIB recommendations relevant to issues identified at Denmark Hill. The recommendation requires Network Rail to review its processes for evaluating reported defects and managing the associated repairs. The learning point reinforces the importance of rigorously recording structure defects reported by examiners.
+
+R232014-141023-Denmark-Hill.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Denmark Hill station
+

@@ -1,0 +1,97 @@
+
+
+<h1>Housekeeping</h1> 
+the resident signaller for the morning shift (resident signaller B) reported an intermittent indication fault on points 3 in the signal box.Unable to recreate the fault, they replaced the lamps in the indicators for points 3 in the signal box, as a precaution.
+
+
+<h1>Personal</h1>
+one of the resident signallers (referred to as resident signaller A) in Knaresborough signal box hurt his back when pulling the mechanical lever controlling points 5.Having reported the injury to his line management, he completed his shift on the basis that points 5 did not need to be used again. He was due to work the following day but called in sick because of his bad back.
+The tractor driver started to cross the railway line when the MSL was displaying a red light.
+The driver recalled that the train ‘leapt in the air’ as it derailed. He was unable to react before the motion of the derailed train propelled him out of his seat.
+The train driver started the train with the passenger’s hand trapped in the door.The passenger placed her hand into the gap between the door leaves as they were closing
+
+
+<h1>Communication</h1>
+the Harrogate LOM called the Knottingley MOM to discuss the upcoming work as a points operator that the Knottingley MOM was scheduled to undertake on the Saturday morning at Harrogate5. During the discussion, the Harrogate LOM mentioned that he was struggling to find someone to operate Knaresborough signal box at the same time. The Knottingley MOM, knowing tha he was still certified as being competent to operate the signal box, offered to cover the shift at Knaresborough.the signaller (MOM) received a call from the driver of train 2C07 which by now had stopped at signal K10 at danger.The signaller (MOM) explained that he had pulled the levers in the wrong order and asked the driver to wait.
+The train driver reported the accident to the signaller using the train’s radio.
+The train driver contacted the signaller at Knaresborough signal box using the cab radio and reported the accident before the train came to a stop.
+The train crew, passengers, and local residents called the emergency services. Notes from the meeting confirm that all work was considered complete; no-one present identified the omitted section of inspection H, which included 2B points. The track section manager was not rostered to be in work on that day, but was present at this meeting, although he did not participate fully as he was simultaneously preparing for a staff briefing that afternoon.
+As a result of the damage and disruption to the signalling system, all signals in the immediate vicinity on both lines automatically reverted to danger and approaching trains were stopped before they reached the site of the accident.
+
+
+
+<h1>Training</h1>
+the signaller (MOM) pulled signal levers K9-K8-K10 in this order, expecting all three signals to clear, but signal K10 did not. The signaller (MOM) did not realise that the points were not set in either the normal or reverse position and interpreted his ability to reverse the signal lever as proof that the route was correctly set and safe.The signaller (MOM) did not check the indication on points 3. Had he checked the indication, he would have discovered that neither the normal nor reverse lamp for points 3 was illuminated, indicating that the points were not correctly set. Signal K10 did not clear because of a points failure, and for no other reason.
+Realising that the train might strike the trail bike rider, the train driver made a full brake application but was unable to avoid the collision.
+The tractor driver probably did not recheck the MSL when approaching the crossing, having used the distant left-hand roadside button to open the gates.The tractor driver has stated that this was the first time that he had driven over the crossing himself.
+The train driver and other FGW staff believed that the door interlock system would detect the presence of an object such as a hand.he may have used the door interlock light as assurance that it was safe to depart
+
+<h1>Unsafe condition</h1>
+the signals at Knaresborough signal box need to be pulled in a specific order for them to clear (K10-K9-K8), he replaced all three levers. This action meant that there was then a two-minute period during which signals K9 and K10 could not be operated.signal K10 remained at danger and the corresponding signal aspect indicator in the signal box continued to display a red light.the train was travelling at approximately 18 mph (29 km/h) as it passed over the points.(is in excess of the 15 mph (25 km/h) limit that applies when driving over points after having been authorised to pass a signal at danger)
+A long freight train ran over the track buckle at too high a speed for the vulnerable condition of the track
+
+<h1>Procedure</h1>
+the signaller (MOM) pulled the signal levers in the sequence K10-K9-K8 fully expecting signal K10 to clear this time.
+the warning horn was sounded three times on the approach to the crossing; around 34 seconds from the crossing, around 16 seconds from the crossing, and around 7 seconds from the crossing.The third horn warning was sounded around the time that the driver could first see Frampton level crossing.The trail riders did not use the telephone to call the signaller to see if it was safe to cross.they believed there was sufficient sighting distance to look for approaching trains.
+The train driver reported that he sounded the horn at the whistle board, 267 metres from the crossing, and then saw the tractor approaching the crossing from his right-hand side. He then sounded the horn continuously and applied the train’s emergency brake.
+The train divided between wagons 13 and 14 which severed the continuous brake pipe and caused the train’s brakes to apply automatically.the stress free temperature of the rails was probably less than the 27oC recorded in Network Rail’s stressing database
+
+
+
+<h1>Authority</h1>
+Unable to identify anything that would explain why signal K10 remained at danger, he concluded that there must have been something wrong with the signal and decided to authorise the driver to pass the signal at danger.
+Network Rail took no effective action to manage the risk of unsafe use by unauthorised trail bikers using the crossing
+
+
+
+<h1>Supervision-Management</h1>
+The signaller (MOM) asked the driver to proceed at caution but did not ask him to examine the line to specifically look for a hazard.
+A supervisor carrying out a scheduled basic visual inspection of the track on Sunday 18 February 2007 did not include 2B points. He had originally only intended to carry out a supervisory inspection, but then agreed, on 12 February 2007,
+FGW’s driver management processes did not detect and adequately respond to the deteriorating safety performance of the driver involved in the accident
+work was continually reprioritised or cancelled because the Lincoln maintenance depot was under-resourced. This was a possible underlying factor.
+
+
+<h1>Hardware/equipment</h1>
+The switch rails of points 3A were not set in either the normal or reverse position, most likely because of high friction at the baseplate to switch rail interfaces.
+The fasteners in the third permanent way stretcher bar joint failed by unwinding. This occurs when the applied load exceeds the clamping force on the joint.The left-hand switch rail was found in a partially open position with no connections between it and the right-hand switch rail, because all of the stretcher bar assemblies had failed.The second permanent way stretcher bar was missing from the points.The third permanent way stretcher bar was found in place but broken in two places
+The driver was able to start the train with the passenger’s hand trapped in the door
+the track started to buckle when the rail temperature in the vicinity of 101B points exceeded its buckling temperature; and subsequently
+
+<h1>Maintainance Management</h1>
+The lack of adherence to the lubrication application guidelines, combined with the poor installed geometry of the points, resulted in higher than expected friction.
+Four bolts and four nuts (all ¾ inch Whitworth) and two single coil spring washers were found in close proximity to the third permanent way stretcher bar. All of the bolts exhibited signs of damage consistent with being loosely held within the switch rail holes prior to working free.On 19 February 2007, the ‘plan-do-review’ meeting did not recognise that there was an omission in the length of the inspection, and this meant that no action to reinstate the inspection was taken.
+There was a pre-existing lateral misalignment in the area of 101B points which promoted the formation of a track buckle.there was insufficient ballast at the toe of 101B points to laterally restrain the track from buckling
+
+
+<h1>Accident</h1>
+ as it was travelling over points 3A, train 2C07 derailed.
+Swindon to Gloucester passenger service, struck a trail bike (a type of motorcycle) on a level crossing. The rider of the trail bike was fatally injured.
+The emergency brake was operated when the train was around 100 metres from the crossing, but even with full emergency brake applied, the train stopped 468 metres beyond the crossing after the collision with the tractor.
+An express passenger train derailed .All nine vehicles of the Class 390 Pendolino unit derailed (Figure 2). Eight of the vehicles subsequently fell down an embankment and five turned onto their sides.
+ a freight train derailed on a track buckle near Langworth.
+
+
+<h1>Enviroment</h1>
+The train driver saw rider 1’s trail bike moving onto the level crossing and into the path of the train
+The accident occurred in daylight. The weather was dry and bright, with clear visibility.
+It was dark at the time, and the driver of the train was unable to see anything untoward before the accident.
+The weather was hot on the day of the derailment, the air temperature reaching 21oC before 09:00 hrs and climbing steadily to a peak of 28.4oC at 16:30 hrs.It was the hottest day of the year to date.
+
+<h1>Information</h1>
+The trail riders were not aware that they were not permitted to use the level crossing with their trail bikes
+
+
+<h1>Organizational Factors</h1>
+The signs at the level crossing did not influence the behaviour of the trail riders.The signs at Frampton level crossing did not include words such as Danger, Warning or Caution (known as signal words) which research indicates may increase the effectiveness of a sign.
+The poor conspicuity of the MSLs (paragraph 64) and the lack of instruction signs at the left-hand post on how to use the crossing safely (paragraph 57) were probable factors in the accident.
+The Network Rail log for 30 June 2015 recorded three other track buckle incidents, in Cardiff, Worcester and Stowmarket,suggesting that the new peak in temperature for the year experienced on that day was a relevant factor
+
+
+<h1>WorklOAD</h1>
+During the week he forgot that he had agreed to extend his inspection to cover the extra length. As a result, the opportunity for a basic visual inspection to 
+discover the degraded points, and for remedial action to be taken was lost.
+
+
+<h1>Incompatable goals</h1>
+There was insufficient appreciation of the factors affecting the CRT of the site and its 
+vulnerability to hot weather. This was an underlying factor

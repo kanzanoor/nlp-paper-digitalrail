@@ -1,0 +1,21 @@
+
+  At 17:29 hrs on 11 July 2011, a loaded passenger train on the Victoria Line of London Underground departed from Warren Street station with all the passenger saloon doors open on the platform side of the train. When the train reached 8 km/h, a safety system on the train closed the doors, but not before the train had entered the tunnel with the leading set of saloon doors open. No-one was hurt in the incident.
+
+The train, consisting of new 2009 tube stock, is fitted with sensitive edge doors designed to apply the brakes if a thin object trapped by the doors is detected. The sensitive edge system was activated when the train stopped at the previous station, Oxford Circus.
+
+The train left Warren Street station with the doors open because the train operator had omitted to close them, having previously disabled the train door interlock (a safety system that requires the doors to be closed before a train can start). The train operator was unable to reset the sensitive edge system between Oxford Circus and Warren Street, and became more and more confused in his attempts to resolve it. RAIB found that the modification to allow train operators to override an activated sensitive edge system had changed the operation of an indication light, which probably misled the train operator. Deficiencies in the train operator’s competence had not been identified and this lack of competence was also a probable factor leading to the train operator’s confusion.
+
+RAIB has made four recommendations to London Underground Ltd covering a review of the guidance and instructions to train operators relating to resolving activated sensitive edge systems; the process of managing engineering change; the competence management of train operators; and the requesting of operational and technical support by train operators.
+
+R132012-120705-Warren-Street.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Warren Street
+
+

@@ -1,0 +1,18 @@
+
+  At 12:28 hours on 4 September 2011, the 11:13 hrs train from London Paddington to Bedwyn went over Ufton level crossing at a speed of 61 mph (98 km/h) while the barriers were in the raised position and the red road traffic signals were not flashing. A car approaching the crossing had to stop suddenly to avoid a collision. Engineering work meant that the equipment which normally operated the crossing automatically had been disabled and the crossing barriers and lights were being operated by an attendant located at the crossing.
+
+The incident occurred because a signaller did not carry out the rules requiring him to speak with the attendant and the train driver so that the barriers were lowered and the train approached the crossing at low speed. It is probable that these omissions were a result of a lapse and the signaller being overloaded by activities that he was required to undertake in connection with the engineering work and the resumption of passenger services after completion of this work. It is possible that the signaller actions were affected by shortcomings in the presentation of information on the display screens used at his workstation. Inadequate consideration of signallers’ workload associated with engineering work is considered a probable underlying cause.
+
+RAIB has made seven recommendations addressed to Network Rail. Five directly relate to the incident and cover presentation of information on display screens used by signallers; the introduction of an interface intended to remind signallers to take appropriate precautions when automatic crossings are being controlled by attendants; and consideration of signallers’ workload when planning engineering work. Two recommendations, based on observations made during the investigation, relate to the positioning and removal of the red flags and red lights used by level crossing attendants to stop trains.
+
+R282012-121220-Ufton.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Ufton level crossing
+

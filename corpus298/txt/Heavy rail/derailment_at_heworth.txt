@@ -1,0 +1,34 @@
+
+  At about 15:25 hrs on 23 October 2014, a freight train derailed just after passing through Heworth station on the railway line from Sunderland to Newcastle. It was travelling at 51 mph (82 km/h) when the leading wheelset of the tenth wagon in the train derailed on track with regularly spaced dips in both rails, a phenomenon known as cyclic top. The train continued for about 1.4 miles (2.3 km) where it was stopped by the signaller, who had become aware of a possible problem with the train from damage to the signalling system. By the time the train stopped, all of the wagon’s wheels were derailed and its suspension was damaged.  
+
+The immediate cause of the accident was a combination of a loss of damping within the suspension on one corner of the wagon that made it susceptible to derailing on the cyclic top track defect it passed over. This was because:
+
+
+  The wagon had a worn suspension component that made its leading left-hand wheel susceptible to unloading and lifting up when responding to dips in the track. The wagon’s maintenance regime had not identified this worn component. The excessive wear was most likely due to misalignment of the wheelset within its suspension.
+  The severity of the dips in the track required Network Rail to impose an emergency speed restriction but no such restriction had been put in place.  
+  The cyclic top defect formed due to water in the track not draining away and although the track inspection regime had identified this defect many times, often no repair took place. Occasionally the local Network Rail track maintenance team carried out manual repairs but these were ineffective.
+  The local Network Rail track maintenance team was unable to cope with the volume of work it had to do. This was due to insufficient numbers of track maintenance staff over a long period of time, changes to the arrangements for working safely while on the track, restrictions on gaining access to the track and changes to how the track was inspected. Network Rail’s management arrangements did not identify the extent of non-compliances to its maintenance processes, or take earlier action to resolve the persistent problems that were affecting track maintenance in this area.
+
+
+Since the derailment, the wagon owner and operator, Freightliner, has carried out additional checks to identify any other wagons with the same worn suspension component and modified the maintenance regime for these wagons.  Network Rail has instructed its staff to always impose an emergency speed restriction for cyclic top defects, which shall remain in place until monitoring has shown that its staff have made an effective repair.
+
+RAIB has made five recommendations.  One is directed to Freightliner and covers mitigating the risk of the ride performance on this type of wagon being degraded by worn suspension components. The other four are directed to Network Rail and cover:
+
+
+  investigating why water is not draining from the track where the train derailed
+  reviewing whether defects found by the track inspection regime are being accurately recorded and that corresponding repair work is planned
+  understanding and taking action to address why the track assets in this area consistently have high numbers of defects
+  understanding and taking action to address why Network Rail’s management arrangements allowed the serious non-compliances with track maintenance processes found by this investigation to go undetected over a long period of time.
+
+
+R162015_150924_Heworth
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Heworth
+

@@ -1,0 +1,34 @@
+
+  On 17 January 2015, Eurotunnel freight shuttle 7340 departed from the English terminal of the Channel Tunnel at Folkestone at 11:57 hrs, conveying 30 vehicles. The wagons of the front portion of the train did not have any roof structures; they were open topped.  The lorry drivers were travelling in an amenity coach located immediately behind the locomotive at the front of the train.
+
+At 12:00 hrs, as it was entering the tunnel, the shuttle experienced a loss of electric power from the overhead wires, which caused it to stop.  Three minutes later, once the power was re-established, it set off again.  At around 12:23 hrs a fire was detected on board the shuttle closely followed by a further loss of electric power supply. Three minutes later, the shuttle was brought to a controlled stop.  The shuttle came to rest in the north tunnel beyond the last of two areas dedicated to fire containment, known as SAFE stations. 
+
+All 42 passengers and crew were safely evacuated into the service tunnel less than 15 minutes after the shuttle stopped.  They were taken to the French terminal of the Channel Tunnel system approximately two hours later.
+
+Water walls were set up either side of, and remote from the fire, an hour and a half after the shuttle stopped; these are designed to prevent the fire from spreading to the locomotive and other parts of the train and not to tackle the fire. The fighting of the fire in itself started approximately three and a half hours after shuttle 7340 stopped; the fire was brought under control half an hour later. 
+
+The joint investigation undertaken by the BEA-TT and the RAIB identified: 
+
+
+  The immediate cause of the incident was that an over-height aerial on a lorry got too close to the overhead wires and caused an electrical arc at the entrance to the tunnel at 12:00 hrs.  The aerial had not been detected during the loading operations in the UK. The system provided by Eurotunnel to detect over-height aerials was not sensitive enough to reliably detect thin aerials at typical lorry speeds when they passed in front of the system. The electrical arc started a smouldering fire inside the cab of the lorry concerned. It also caused the initial tripping of the overhead power. Eurotunnel dealt with the power loss as an operational incident, as it was unaware of the smouldering fire. 
+  CCTV footage indicated that smoke appeared to be developing inside the cab of the incident lorry when the train came to a stand inside the tunnel following the initial power trip. However, as there was no requirement for the train to be inspected following the overhead power line trip, this early sign of a developing fire was not identified and the train was allowed to restart. The smouldering fire remained undetected until 12:23 hrs when the fire alarms were first activated. 
+  When the fire alarms were activated, the train was on the approach to the second SAFE station. Given the speed of the train, it remained technically feasible to bring it to a stop in this SAFE station for at least another 1min 30sec. However, the time taken by the control centre to gather the information to inform the line controller’s decision meant that by the time the decision was taken it was too late to stop the train in the SAFE station. Furthermore, when the second power trip occurred, most probably as a result of a tarpaulin or strap being released by the fire and contacting the overhead power line, the various controllers were focused on the fire procedures and no attempt was made to re-energise the overhead power line which very possibly would have allowed the train to exit the tunnel.
+  It took three and a half hours after the train stopped before the intervention team was ready to start the firefighting activities. Almost an hour was lost in conveying the firefighters from the terminal emergency centre to the site of the fire. This delay was due to a non-optimum use of the service vehicles and their drivers.
+  The incident lorry was loaded on a wagon without any roof protection. This type of wagon had originally been supplied with a roof construction. However, the poor integrity of the roof structure had led to its progressive removal. The safety justifications prepared at the time of the removal of the roofs recognised that the removal of the physical barrier increased the likelihood of electrical arcing and the importance of the aerial detection system, but it did not lead to a review as to whether its sensitivity and reliability were adequate, given the increased risk.  It relied on control measures which, while being positive steps towards the protection of assets and operations, did not address the additional risk to passengers and crew.
+
+
+Eurotunnel has changed its operating procedures for dealing with an overhead power line trip at the tunnel portals on a train comprising of this type of wagon. It now requires the train involved to stop at the first SAFE station for further investigation.
+
+As a consequence of this accident, the BEA-TT and the RAIB have made six recommendation to Eurotunnel concerning:
+
+
+  The management of the risks associated with over-height objects
+  The continued monitoring of the improvements in the field of fire detection systems
+  The measures needed to limit the likelihood of a train on fire stopping outside of the SAFE stations
+  Eurotunnel’s change management process
+  Eurotunnel’s control of the work done by external bodies
+  The optimisation of the use of the emergency transport system in the service tunnel.
+
+
+160505_ReportET2016_eurotunnel_eng
+

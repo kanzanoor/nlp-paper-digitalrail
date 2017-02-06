@@ -1,0 +1,32 @@
+
+  At around 09:55 hrs on 12 April 2012, a passenger became trapped in one of the doors of a train at Jarrow station. The passenger had arrived on the platform as the doors were closing and had placed her arm in the path of the closing door. The closing doors trapped her arm, and a few seconds later, as the train left the station, the passenger was forced to run alongside it. A timely activation of the emergency door release by a passenger inside the train allowed the passenger to free herself and she fell onto the platform. The passenger left the station immediately. CCTV evidence suggests that she did not sustain significant injuries.
+
+The RAIB investigation found that, in addition to the passenger’s actions, the following factors led to the incident:
+
+
+  there was a fault condition on the set of doors involved in the incident which, with the arm trapped, not only disabled the obstruction detection system and prevented the door reopening, but also enabled the driver to release the train brakes and apply traction power
+  the passenger was unable to pull her trapped arm out of the door
+  the driver of the train did not notice the trapped passenger in the few seconds between closing the doors and leaving the station.
+
+
+As a consequence of this incident, RAIB has made five recommendations, which cover:
+
+
+  measures to reduce and monitor the number of deliberate door obstructions
+  improvements to the reliability of the door control circuits
+  improving driver’s visibility of the platform/train interface at stations
+  changing the method used to test door obstacle extraction forces to one that is aligned with the intentions of the relevant Railway Group Standard
+  clarifying Railway Group Standard GM/RT2473, which specifies how to test door obstacle extraction forces.
+
+
+R262012-121203-Jarrow.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Jarrow station 
+

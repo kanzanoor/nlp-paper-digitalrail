@@ -1,0 +1,21 @@
+
+  At approximately 14:24 hrs on 23 March 2011, train number 1M68, the 13:45 hrs service from Cardiff to Nottingham, passed over Lydney manually controlled barrier (MCB) level crossing while the barriers were in the raised position. This crossing is on the main line between Gloucester and Newport. The railway signal protecting the level crossing was showing green, and the train was travelling at 59 mph (94 km/h). The red flashing lights intended to instruct road users to stop were operating and there were no road vehicles on the crossing. No injuries or damage resulted from the incident.
+
+The crossing keeper had raised the up side barrier manually during the 90 minutes before the incident, due to a defect in the equipment controlling the barrier motors. Shortly before the incident, the crossing keeper lowered the barriers for a train approaching from the direction of Gloucester. He then raised both barriers manually just before the Cardiff to Nottingham train arrived at the crossing. An annunciator (buzzer) intended to warn the crossing keeper about approaching trains did not give the usual warning.
+
+The railway signals protecting Lydney crossing should have been placed at danger before the barriers could be raised safely. The crossing keeper had no facility to control these signals, and did not inform signallers at Newport who could have kept the signals at danger while the barriers were raised. Several possible reasons for not informing the signaller have been identified.
+
+RAIB has made recommendations to Network Rail relating to the adequacy of instructions and training given to crossing keepers and signallers; and, the process used for on-going assessment of staff competencies. RAIB has also recommended that Network Rail should modify standards for new and upgraded crossings so that protecting signals always display a stop aspect when the crossing barriers are raised.
+
+R202011-111215-Lydney.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Lydney
+
+

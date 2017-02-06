@@ -1,0 +1,20 @@
+
+  On 10 March 2009, a Docklands Light Railway service became derailed as it travelled through a set of points at North Quay junction, just north of West India Quay station.  There were no injuries to the 80 passengers or the passenger service agent on board the train. 
+
+The immediate cause of the derailment was that the train travelled through the points in a trailing direction when the points were not correctly set for this movement, and derailed.
+
+The causal factors which led to the derailment were that the passenger service agent did not identify that the points were set reverse, or see the unlit point position indicator and stop the train; the control centre controller did not intervene to stop the movement of the train or follow the emergency procedure; and the control centre controller was not aware of the exact position of the train.
+
+RAIB has made seven recommendations which include the criteria for the location of point position indicators and the review of their sighting and subsequent improvements; alarm management systems in the system management centre; the replacement of all point position indicators with ones that are more conspicuous when lit; and adequate control of changes to the design and operations of the railway.
+
+R032010-100304-West-India-Quay.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body.
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for West India Quay
+

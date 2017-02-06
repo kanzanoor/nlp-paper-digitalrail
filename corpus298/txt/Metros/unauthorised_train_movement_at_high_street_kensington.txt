@@ -1,0 +1,28 @@
+
+  On Saturday 29 April, at 23:09 a District Line train with approximately 150 passengers on board left Earls Court for High Street Kensington. As the train approached High Street Kensington, the driver realised that the wrong route had been set and stopped the train. A “Wrong Direction Move” (WDM) was authorised to reverse the train a short distance so the route could be reset. However, the train did not stop at the authorised limit of the reversal, and was halted by the traction current being turned off. Once the traction current was recharged, the train then travelled to High Street Kensington and terminated 67 minutes late.
+
+Under slightly different circumstances this could have resulted in a collision with another train travelling in the opposite direction. However, with the protective measures taken during the incident the risk of such a collision was exceedingly low. There were no passenger injuries or damage to trains or infrastructure as a result of the incident.
+
+The immediate cause of the incident was the failure to correctly locate and identify the position of a signal during a WDM, resulting in the train reversing beyond the limit of the move. There were three causal factors and eight contributory factors to the incident. The underlying causes were inadequate managerial supervision of operating practices at Earls Court Control Room and at High Street Kensington station, and inadequate managerial understanding of the essential knowledge for staff operating in this area.
+
+RAIB has made fourteen recommendations aimed at:
+
+
+  the rules, procedures and working practices of LUL staff;
+  the training and briefing of LUL staff;
+  the operation of LUL stations and control rooms; and
+  the implementation of the Connect Radio project.
+
+
+R192007-070621-High-St-Ken.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body.
+  RAIB may add comment, particularly if we have concerns regarding these responses.  
+
+
+RAIB Recommendation response for High Street Kensington
+
+

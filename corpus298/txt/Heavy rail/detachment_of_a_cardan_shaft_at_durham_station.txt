@@ -1,0 +1,20 @@
+
+  On 10 April 2011, at around 12:30 hrs, a cardan shaft fell from an empty class 142 passenger train travelling through Durham station at 75 mph (120 km/h). The train ran for a distance of approximately 2 miles (3.2 km) before being stopped. A member of the public standing on a platform suffered a minor injury from ballast thrown up as the cardan shaft fell onto the track; the train suffered damage, including loss of diesel fuel.
+
+The immediate cause of the detachment was the complete fracture of a final drive input shaft. The input shaft fractured because a seized input bearing generated a large amount of frictional heat between the shaft and bearing. The input shaft was locally heated to a temperature at which its strength was reduced so that it could no longer carry its normal loading.
+
+RAIB established that the seizure of the bearing was due to the setup of the bearings during overhaul which resulted in a lack of end float in the bearings when in operation. The final drive failure was not detected by the checks which were in place to identify the onset of such failures. The detached cardan shaft was not retained by its safety loops.
+
+RAIB has made six recommendations to Northern Rail and owners of class 14x vehicles. Two recommendations relate to reviewing the end float and alignment requirements for the class 14x final drives and ensuring that any changes to the setup of safety critical components are validated. One recommendation covers the detection of impending final drive failures. The fourth recommendation relates to the final drive post-overhaul testing and the fifth covers the provision of key design information to overhaul and maintenance contractors. The final recommendation relates to the completion of the review work associated with the events in the immediate aftermath of the accident.
+
+R122012-120702-Durham.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Durham
+

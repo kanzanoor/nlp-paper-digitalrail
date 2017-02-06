@@ -1,0 +1,51 @@
+
+  At 05:22 hrs on 4 April 2008, the 05:19 hrs Docklands Light Railway service from Lewisham had just left Deptford Bridge station, travelling towards Greenwich, when it struck an object on the track. As a result the second axle of the first bogie derailed. The front of the train came to rest 88 metres after hitting the object. No-one was injured in the derailment.
+
+The train, the first one of the day from Lewisham, was under the control of its on-board computer (automatic mode of operation). The object on the track was found to be a steel drilling jig that had been in use during engineering activities earlier that morning.
+
+There were no injuries to the 59 persons on board the train and all were evacuated safely back to Deptford Bridge station.
+
+The RAIB investigation identified that:
+
+
+  the immediate cause of the accident was that the DLR train struck a drilling jig that had been left across the running rail, and derailed
+  the Person In Charge Of Work (PICOW) and the other drillers did not realise that the drilling jig had been left at site across a running rail
+  there was no procedure requiring a systematic check that all equipment representing a derailment risk was accounted for
+  the PICOW did not undertake a systematic and adequate check of the work site
+  the site working lights were switched off before items on the track were cleared, leaving the area in darkness.
+
+
+Five recommendations have been targeted at Serco Docklands, the operator of the Docklands Light Railway. These cover:
+
+
+  reviews of the company’s competency management system, its operational safety management systems, its current rules and procedures
+  identifying safety process indicators.
+
+
+Four recommendations have been targeted at Docklands Light Railway Ltd. These cover:
+
+
+  the implementation of processes to improve visibility of equipment representing a derailment risk
+  modifications to control centre systems
+  the role of sweep trains
+  the production of a DLR common rule book and procedures. 
+
+
+Two recommendations have been targeted at Carillion JM Ltd, the contractor involved. These cover:
+
+
+  the role of the senior PICOW
+  method statements being up-to-date for the work being carried out.
+
+
+R162009-090622-Deptford-Bridge.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Deptford Bridge 
+

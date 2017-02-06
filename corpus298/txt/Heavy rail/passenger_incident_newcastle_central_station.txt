@@ -1,0 +1,30 @@
+
+  
+At 17:02 hrs on 5 June 2013, a passenger was dragged by a train departing from platform 10 at Newcastle Central station. Her wrist was trapped by an external door of the train and she was forced to move beside it to avoid being pulled off her feet. The train reached a maximum speed of around 5 mph (8 km/h) and travelled around 20 metres before coming to a stop. The train’s brakes were applied either by automatic application following a passenger operating the emergency door release handle, or by the driver responding to an emergency signal from the conductor. The conductor, who was in the rear cab, reported that he responded to someone on the platform shouting at him to stop the train. The passenger suffered severe bruising to her wrist.
+
+This accident occurred because the conductor did not carry out a safety check before signalling to the driver that the train could depart. Platform 10 at Newcastle Central is a curved platform and safe dispatch is particularly reliant upon following the correct dispatch procedure including undertaking the pre-dispatch safety checks.
+
+The investigation found that although the doors complied with the applicable train door standard, they were, in certain circumstances, able to trap a wrist and lock without the door obstruction sensing system detecting it. Once the doors were detected as locked, the train was able to move.
+
+In 2004, although the parties involved in the train’s design and its approval for service were aware of this hazard, the risk associated with it was not formally documented or assessed. The train operator undertook a risk assessment in 2010 following reports of passengers becoming trapped. Although they rated the risk as tolerable, the hazard was not recorded in such a way that it could be monitored and reassessed, either on their own fleet or by operators of similar trains.
+
+As a consequence of this incident, RAIB has made six recommendations. One of these is for operators of trains with this door design to assess the risk of injuries and fatalities due to trapping and dragging incidents and take the appropriate action to mitigate the risk.
+
+Two recommendations have been made to the train’s manufacturer. One of these is to reduce the risk of trapping on future door designs, and the other to review its design processes with respect to hazard identification and recording.
+
+One recommendation has been made to the operator of the train involved in this particular accident. This is related to the management of hazards associated with the design of its trains and assessment of the risks of its train dispatch operations.
+
+Two recommendations have been made to RSSB. One is to add guidance to the standard on passenger train doors to raise awareness that it may be possible to overcome door obstruction detection even though doors satisfy the tests specified within the standard. The other recommendation is the consideration of additional data which should be recorded within its national safety management information system to provide more complete data relating to the risk of trapping and dragging incidents.
+
+R192014-140918-Newcastle.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Newcastle Central station
+
+

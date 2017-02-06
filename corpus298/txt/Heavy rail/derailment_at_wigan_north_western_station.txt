@@ -1,0 +1,21 @@
+
+  At midnight on 25/26 August 2009 as train 4M67, the 20:15 hrs service from Mossend, near Glasgow, to Birmingham and Manchester, the leading bogie of the 12th wagon in the train derailed on the approach to Wigan North Western station. 
+
+The immediate cause of the derailment was the flange of the leading right-hand wheel of the leading bogie of wagon 610117 climbing over the right-hand rail at the point where it changed section from UIC60 to BS113A.
+
+The causal factors were: the track had been installed with a radius that was sharper than designed and was not fitted with a check rail; one of the transition rails had been installed incorrectly; the frame of the vehicle which derailed was twisted, and the sidebearers of this wagon were fitted with packings that did not compensate for this twist.
+
+RAIB has made four recommendations concerning: a system to assess and mitigate, so far as is reasonably practicable, the risk arising from twisted frames on container wagons and audit compliance with it; checking other sites where the same project team had installed track to verify that it has been designed and installed correctly; updating Network Rail’s processes for track management to include checks that the rail fastening components are of the correct type for the particular rail and sleeper combination; and updating Network Rail’s track recording information handling process to deal with gauge variation and should issue guidance to staff on minimum actions to be taken at each alarm level. 
+
+R142010-100818-Wigan-North-Western.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Wigan North Western 
+
+

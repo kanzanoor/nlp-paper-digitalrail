@@ -1,0 +1,37 @@
+
+  This report covers three separate incidents. They were all associated with an abnormal method of operating the tramway. Single line working was taking place over a distance of about one mile because of line closure for track repairs. It was necessary for southbound trams to change direction twice at each end of this section to reach the opposite track.
+
+The first incident occurred on Monday 21 November 2005 at Talbot Square. Tram 644, travelling south, was leaving the single line section. The driver had just started the tram when the controller handle became detached. The driver was unable to replace the handle, and so he attempted to apply the emergency brake. This failed to act and the tram, which was not under power, continued to roll downhill, until the gradient levelled out and it came to a stop.
+
+The second incident was on Saturday 3 December 2005 at Gynn Square. The driver of tram 646, travelling south, left his cab to change ends for the reversal at the start of single line working. As he was walking through the tram it began to move and struck the barrier protecting the track repair works after rolling 5 metres. The driver then applied the emergency brake and the tram stopped.
+
+The third incident occurred on Saturday 10 December 2005, also at Gynn Square, and again involved tram 646. After completion of the reversing manoeuvre, the driver moved the tram forward a short distance, some 10 metres and then attempted to stop to allow a member of staff to alight. The tram did not respond to a service brake application, so the driver applied the emergency brake and the tram stopped.
+
+A different driver was involved in each incident.
+
+The immediate cause of the first incident was the poor condition of the tram controller housing.
+
+The immediate cause of the second and third incidents was the design of the tram controller housing.
+
+There were several contributing factors for each of the incidents, which are detailed in the full report.
+
+During our investigation, Blackpool Transport Services identified and discussed four measures with RAIB. All of them have now been implemented. They cover:
+
+
+  Full briefing of drivers about the correct procedure when changing ends
+  Lagging of air pipes to reduce the risk of the braking system freezing
+  A modification to the controller end cover
+  A review of inspection and maintenance procedures for the controllers.
+
+
+R052006-060328-Blackpool.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body.
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB recommendation response for runaway incidents on Blackpool Transport Services tramway
+

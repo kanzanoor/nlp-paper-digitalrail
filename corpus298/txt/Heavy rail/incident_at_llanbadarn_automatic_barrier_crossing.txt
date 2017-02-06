@@ -1,0 +1,18 @@
+
+  Shortly before 22:00 hrs on 19 June 2011 a passenger train, travelling from Aberystwyth to Machynlleth, ran onto the level crossing at Llanbadarn while the barriers at the crossing were raised, and came to a stop with the front of the train about 31 metres beyond the crossing. There were no road vehicles or pedestrians on the crossing at the time.
+
+The immediate cause of the incident was that the train driver did not notice that the indicator close to the crossing was flashing red until it was too late for him to stop the train before it reached the crossing. Factors behind this included the driver’s ‘workload’ (his need to observe a screen in the cab at the same time as he should also be observing a lineside indicator), the design of the equipment associated with the operation of the level crossing, and the re-setting of the signalling system on board the train before it could depart from Aberystwyth. An underlying cause of the incident was that the signalling system now in use on the lines from Shrewsbury to Aberystwyth and Pwllheli does not interface with the automatic level crossings on these routes.
+
+RAIB has made six recommendations, three directed to Network Rail, two to Arriva Trains Wales and one to the Rail Safety and Standards Board. These cover the development of engineering solutions to mitigate the risk of trains passing over automatic crossings which have not operated correctly; changes to the operating equipment of Llanbadarn crossing; the processes used by railway operators to request permission to deviate from published standards; the operational requirements of drivers as trains depart from Aberystwyth; and the way in which drivers interact with the information screens of the cab signalling used on the Cambrian lines.
+
+R112012-120627-Llanbadarn.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Llanbadarn
+

@@ -1,0 +1,19 @@
+
+  At about 12:15 hrs on 2 April 2014, two wagons of a nominally empty freight train derailed on the approach to Angerstein Junction, near Charlton in south east London. The derailed wagons were pulled over the junction and stopped on the Blackheath to Charlton line, with the two wagons partly obstructing the line used by trains travelling in the opposite direction. No other trains were involved in the accident and no-one was injured, but there was significant damage to the railway infrastructure.
+
+The wagons derailed because the leading right-hand wheel on one of them was carrying insufficient load to prevent the wheel climbing up the outer rail on a curved section of track. The insufficient load was due to a combination of a track defect, an unevenly distributed residual load in the wagon, and an uneven distribution of load associated with a twisted bogie. The unevenly distributed residual load comprised finely crushed rock which adhered to the side of wagon, and was not discharged by unloading procedures. These procedures had been developed without recognising the derailment risk associated with carrying relatively small, but significantly unbalanced, loads. This combination of factors illustrates the derailment risk which arises when wagons carrying one or more defects are operated on track with one or more defects in circumstances where both wagon and track are compliant with relevant railway standards (ie the defects on wagon and track are not, individually, sufficient to prevent train operations continuing).
+
+RAIB has made six recommendations, several of which could be informed by work undertaken as part of a cross-industry programme already initiated by the ORR after previous RAIB investigations identified derailment risks associated with operation of wagons and track which are imperfect, but nevertheless compliant with relevant standards. 
+One recommendation addressed to Aggregate Industries seeks improved wagon load discharge arrangements. Two recommendations addressed to RSSB are intended to mitigate risks associated with imperfect wagons, carrying unevenly distributed loads, on imperfect track. Three recommendations, addressed to Network Rail, seek appropriate control of derailment risk in sidings where derailed vehicles can affect running lines, provision to wagon operators of wagon defect information collected by trackside equipment, and possible modifications to the method of collecting track twist data in order to reflect the effect of this track defect on modern rolling stock.
+
+R112015_150812_Angerstein_Junction
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Angerstein Junction
+

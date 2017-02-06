@@ -1,0 +1,27 @@
+
+  Following the fatal accident at Halkirk automatic open level crossing, Caithness, on 29 September 2009, RAIB decided to carry out two separate investigations. The first of these was into the Halkirk accident, while the second was to investigate the more general safety issues associated with automatic open level crossings installed on Network Rail’s managed infrastructure. This report addresses the more general safety issues.
+
+RAIB’s investigation confirmed that automatic open level crossings, which are protected only by road traffic light signals, and have no barriers, are the highest risk form of level crossing for vehicle drivers on public roads, and some of them have a significant history of incidents and accidents.
+
+The investigation found that the lack of barriers at automatic open level crossings is the most significant factor contributing to vehicle drivers passing the road traffic light signals when they are operating, either deliberately or as a genuine error. RAIB considers that the crossings with the highest risk of collision between trains and road vehicles should be upgraded, probably by fitting half barriers, but there may be other means which deliver an equivalent or better level of safety (eg closure).
+
+The high cost of new level crossings is a reason why it can be difficult to justify upgrading existing crossings based on a cost benefit analysis. However, a system is being developed to retro-fit half barriers to existing automatic open crossings at a much lower cost than that of a new crossing. If this initiative is successful, it will be easier to justify the upgrade of existing crossings. RAIB believes that this work should be prioritised accordingly.
+
+The safety of level crossings can be improved by taking action against vehicle drivers who deliberately pass the flashing red lights. Where this behaviour is prevalent, red light enforcement equipment is a deterrent. RAIB believes that the development of fixed digital cameras and their installation at selected level crossings, particularly in combination with greater penalties, would be beneficial in improving safety and should be prioritised. 
+
+The identification of factors at each crossing that lead to deliberate risk taking behaviour or genuine errors would enable appropriate risk reduction measures to be implemented. RAIB believes that the existing risk assessments of automatic open level crossings should be reviewed to check whether all the relevant factors have been identified, and to determine whether additional mitigation measures are required.
+
+Finally, RAIB believes that Network Rail’s process covering the risk assessment of level crossings should include guidance to its staff on how to identify the relevant human factors, and take account of the associated risk, at specific level crossings in order to determine the adequacy of existing mitigation measures and the need for additional measures. This builds upon a similar recommendation RAIB made following its investigation of the Halkirk accident.
+
+R122011-110728-AOCLs-Class-Inv.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for AOCL class investigation
+
+

@@ -1,0 +1,25 @@
+
+  At 00:44 hrs on 26 August 2011, a freight train comprising a diesel-electric locomotive, 30 empty aggregate wagons, and an unloading wagon derailed on the approach to Bordesley Junction, Birmingham. The rear four wagons of the train, which was travelling between Banbury and Barrow-on-Soar, derailed and re-railed during the accident. There was extensive track damage at Bordesley Junction and some damage to the vehicles involved. No one was hurt.
+
+The immediate cause was that the fourth wagon from the rear derailed when its leading right-hand wheel flange climbed onto the rail head just before the junction. This was because the dynamic load on this wheel was reduced by a combination of factors related to the wagon’s suspension and the track geometry:
+
+
+  The trailing left-hand wheel’s suspension had probably locked-up (ie it had stopped responding to vertical movements) after passing over a track twist. Once locked-up, dynamic load transferred from this wheel and the diagonally opposite leading right-hand wheel to the other wheels, making this wagon more susceptible to derailing on a further track twist. The suspension had locked-up because worn suspension components were not detected during planned maintenance, and no changes had been made to this wagon’s suspension, or to its maintenance regime, after testing had shown this type of suspension was prone to locking-up. An underlying cause was that no organisation took overall ownership of this problem of suspension lock- ups.
+  There were two track twists that had been present for a long time because Network Rail staff carried out repair work in the wrong place. These track twists had formed due to the deteriorating condition of the formation, and although they were identified as repeat faults, no action was taken to investigate why these faults were recurring. Four days before the accident, planned overnight work that would have corrected these faults ran short of time, so the line where the track twists were was not worked on.
+
+
+RAIB has made four recommendations, two directed to Network Rail’s Network Certification Body, one to Lafarge Aggregates Ltd, and one to Network Rail. These cover making improvements to the way the risk of operating privately owned wagons is managed once a fleet wide problem is discovered, carrying out a fundamental review of how the suspension components on these wagons are maintained, implementing modifications to these wagons’ suspensions which reduce the number and duration of lock-ups, and changing the process for briefing staff controlling on- track machine work so information about the priorities for their work is provided.
+
+There are also two previous RAIB recommendations that were made to Network Rail, which are relevant to this investigation. One calls for measures to improve the accuracy of location information for track geometry faults and the other calls for processes to be put in place for investigating and monitoring the repairs of repetitive track geometry faults. Their implementation is subject to ongoing correspondence between Network Rail and the Office of Rail Regulation.
+
+R192012-120919-Bordesley-Junction.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Bordesley Junction
+

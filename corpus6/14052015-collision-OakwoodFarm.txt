@@ -1,0 +1,25 @@
+14052015-collision-between-train-and-tractor
+
+Enviroment:The accident occurred in daylight. The weather was dry and bright, with clear visibility.
+
+Communication:The train driver contacted the signaller at Knaresborough signal box using the cab radio 
+and reported the accident before the train came to a stop.
+
+Persoanl:The tractor driver started to cross the railway line when the MSL was displaying a red light.
+
+Training/Knowledge:
+1:The tractor driver probably did not recheck the MSL when approaching the crossing, 
+having used the distant left-hand roadside button to open the gates.
+
+2:The tractor driver has stated that this was the first time that he had driven over the crossing himself.
+
+Procedure:The train driver reported that he sounded the horn at the whistle board, 267 metres from the crossing, 
+and then saw the tractor approaching the crossing from his right-hand side. He then sounded the horn continuously 
+and applied the train’s emergency brake.
+
+Accident:The emergency brake was operated when the train was around 100 metres from the crossing, but even with 
+full emergency brake applied, the train stopped 468 metres beyond the crossing after the collision with the tractor.
+
+
+Organizational factors:The poor conspicuity of the MSLs (paragraph 64) and the lack of instruction signs at the 
+left-hand post on how to use the crossing safely (paragraph 57) were probable factors in the accident.

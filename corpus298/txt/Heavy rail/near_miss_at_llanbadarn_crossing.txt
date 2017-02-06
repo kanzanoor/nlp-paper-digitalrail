@@ -1,0 +1,26 @@
+
+  On 21 October 2008 the 08:33 hrs train from Birmingham to Aberystwyth ran over Llanbadarn automatic half barrier level crossing, near Aberystwyth, whilst the barriers were raised, narrowly missing a road tanker carrying liquefied petroleum gas.
+
+The RAIB investigation identified the immediate cause of the incident was that the driver of the train did not brake his train sufficiently early to stop before the crossing when the driver’s indicator at the crossing (the DCI) was showing a flashing red aspect.
+
+The investigation concluded that driver did not apply his brakes until 9.7 seconds after passing the special speed restriction board for the crossing, anticipating that the driver’s crossing indicator would change from a flashing red aspect to a flashing white aspect. It also concluded that the driver may have been fatigued, or distracted by the presence of two other drivers in the cab with him.
+
+The investigation revealed that the settings of the driver’s crossing indicators on other similar crossings on the Cambrian lines of Network Rail may have conditioned the driver to expect flashing red aspects to continue after passing the special speed restriction board, and that the railway industry Rule Book does not give explicit guidance as to what to do with regard to the speed of a train if the driver’s crossing indicator displays a flashing red aspect when the driver passes the special speed restriction board.
+
+Although not a direct factor, as a flashing red aspect is a normal condition, the breakdown of an unorthodox method of carrying out maintenance of the crossing resulted in the flashing red aspect being displayed to the driver, and the crossing not operating.
+
+As a consequence of this accident, RAIB has made eight recommendations, targeted at Network Rail, Arriva Trains Wales Ltd (the operator of the train involved) and the Rail Safety and Standards Board.
+
+These concern the design of Llanbadarn level crossing, modifications to other crossings that display aspects similar to that which may have affected the driver’s actions, Rule Book amendments and briefings to drivers and the maintenance procedures for automatic level crossings on the Cambrian lines.
+
+R202009-090728-Llanbadarn.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Llanbadarn
+

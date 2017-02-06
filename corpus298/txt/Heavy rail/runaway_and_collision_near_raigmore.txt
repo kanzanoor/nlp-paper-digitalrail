@@ -1,0 +1,22 @@
+
+  At about 23:39 hrs on 20 July 2010, a machine operator was placing a road-rail excavator onto the railway near Drumrosach farm, near Raigmore, Inverness. As the machine was being placed on the track it began to run down the gradient. The people who were in attendance were unable to stop the machine before it gathered speed.
+
+The machine ran for 0.88 miles (1.41 km) with the machine operator on board, and then collided, at between 40 and 50 mph (64 to 80 km/h), with the rear of a stationary freight train which was standing on the bridge over the line that runs between Inverness and Aberdeen.
+
+In the collision, the machine operator was thrown out of the cab and landed on top of the rear wagon of the freight train, sustaining serious injuries. The excavator was derailed by all wheels and the leading axle of the rear wagon became derailed. Both the excavator and the freight wagon sustained damage.
+
+RAIB’s investigation identified that the excavator was placed into an unbraked condition while being manoeuvred onto the track. This is likely to have occurred due to a combination of operator errors and a transient single point failure of the machine’s control system. The machine operator was then unable to slow, derail or stop the excavator as it ran away.
+
+RAIB has made four recommendations relating to modifications to the design of the excavator, a review of the safety requirements that are specified for this type of machine, and a review of the training of people who control this type of machine on site.
+
+R102011-110711-Raigmore.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Raigmore
+

@@ -1,0 +1,32 @@
+
+  At 17:52 hrs on 18 July 2011, a partially detached metal panel on a container train struck the cab of a passing track maintenance vehicle, smashing the side window.
+
+The driver of the maintenance vehicle subsequently reported seeing a similar panel on the trackside, one mile further on. No-one was injured. The panels, approximately 2.5 m high by 1.0 m wide, were from two modified freight containers, which were fitted with power-generation equipment and were being exported overseas. The panels had covered two ventilation apertures in the container sides. They had been fitted as a temporary measure to help prevent water ingress during the sea voyage.
+
+The cause of the accident was that screws securing the panels became loose during rail transit. This was initiated by a loss of the clamping force in the bolted joint because of the mechanical properties of a foam seal that was fitted.
+
+The manufacturer had ensured that the containers were approved in accordance with the International Convention for Safe Containers (the regulatory regime used for assuring the structural safety of freight containers used internationally and transported by surface means). However, neither the convention nor the manufacturer required a structural assessment of this bolted joint.
+
+The operational safeguards used to prevent unsuitable freight containers being carried on the railway relied on visual examination, and were therefore unable to identify the hidden structural defect.
+
+RAIB has made three recommendations to the Heath and Safety Executive. They are concerned with:
+
+
+  making the relevant freight container manufacturers, repairers, modifiers, users and approval bodies aware of the need to assess the structural integrity of such attachments
+  an amendment of the International Convention for Safe Containers.
+
+
+RAIB has also made a recommendation to the train operator regarding its processes for assuring the structural integrity of freight containers that it carries on the railway.
+
+R172012-120809-Althorpe-Park.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Althorpe Park
+
+

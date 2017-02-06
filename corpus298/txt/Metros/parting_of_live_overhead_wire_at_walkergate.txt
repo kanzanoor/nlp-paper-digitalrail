@@ -1,0 +1,23 @@
+
+  At around 18:56 hrs on 11 August 2014, a Tyne and Wear Metro train at Walkergate station, developed an electrical fault in equipment under the rear car, which tripped the power supply to the overhead wire. About a minute later, the power was remotely restored by a power controller and a fire started in the faulty equipment. The fault drew a high current from the overhead wire through the car’s pantograph, causing localised overheating and, after about 18 seconds, the wire parted. The loose ends of the live wire flailed around the train roof, showering sparks, and one end fell on the platform. A second power controller happened to observe events on station CCTV and power to the overhead line was disconnected. The parted overhead wire had remained live for approximately 14 seconds. 
+
+At the time of the accident, the train doors were closed for departure and there were no passengers on the platform. About 30 passengers got out of the train after the power was turned off. There were no reported injuries, although passengers were evidently distressed. 
+
+A sustained high current was drawn because the electrical fault occurred in a part of the train’s power circuit which was not protected by on-train equipment and which could only be detected by the overhead power supply protection equipment. However, because of the way that the power was switched back on, the level of current drawn by the fault was not sufficient to immediately activate that protection. The underlying cause of the accident was the ineffective management of risks created at the interface between system components, comprising the power supply, power control and the train. 
+
+RAIB observed that the arrangements between the infrastructure operator, Nexus, and the train operator, DB Regio Tyne and Wear, did not effectively facilitate the sharing of relevant health and safety information on risks created within the system. It also observed deficiencies in the competence management of the power control function and in the regime for assuring the continued integrity of some electrical protection equipment.
+
+RAIB has made three recommendations. The first, addressed to Nexus, seeks improvements in its safety management system to provide a more effective framework for the management of its shared risks. The second, addressed to both Nexus and DB Regio Tyne and Wear, relates to the identification and evaluation of risks created at the interfaces between their organisations. The third recommendation, addressed to both organisations, seeks to achieve more comprehensive power control procedures to facilitate safe decision-making.
+
+R092015_150730_Walkergate
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Walkergate station
+
+

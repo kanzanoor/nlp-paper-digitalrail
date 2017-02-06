@@ -1,0 +1,19 @@
+
+  On 13 April 2013 between 17:33 and 17:38 hrs, a tram travelling from West Croydon to Beckenham Junction, on the London Tramlink system, departed from Lebanon Road and Sandilands tram stops with all of its doors open on the left-hand side. Some of the doors closed automatically during the journey, but one set of doors remained open throughout the incident. The incident ended when a controller monitoring the tram on CCTV noticed that it had departed from Sandilands with its doors open, and arranged for the tram to be stopped. Although there were no casualties, there was potential for serious injury.
+
+The tram was able to move with its doors open because a fault override switch, which disables safety systems such as the door-traction interlock, had been inadvertently operated by the driver while trying to resolve a fault with the tram. The driver did not close and check the doors before departing from Lebanon Road and Sandilands partly because he was distracted from dealing with the fault, and partly because he did not believe that the tram could be moved with any of its doors open. The design of controls and displays in the driving cab contributed to the driver’s inadvertent operation of the fault override switch. Furthermore, breakdowns in communication between the driver and the passengers, and between the driver and the controller, meant that neither the driver nor the controller were aware of the problem until after the tram left Sandilands.
+
+The RAIB has made eight recommendations. Four of these are to Tram Operations Ltd, aimed at improving the design of tram controls and displays, as well as training of staff on, and processes for, fault handling and communications. Two recommendations have been made to London Tramlink, one (in consultation with Tram Operations Ltd) relating to improving cab displays and labelling and one on enhancing the quality of the radio system on the network. One recommendation is made to all UK tram operators concerning the accidental operation of safety override switches. The remaining recommendation is to the Office of Rail Regulation regarding the provision of guidance on ergonomics principles for cab interface design.
+
+R052014-140306-Lebanon-Road.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for London Tramlink
+
+

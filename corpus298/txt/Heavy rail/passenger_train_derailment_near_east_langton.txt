@@ -1,0 +1,20 @@
+
+  On 20 February 2010, at around 15:49 hrs, a seven-car Meridian diesel multiple unit passenger train derailed by one axle of the fourth vehicle, while travelling on the Midland Main Line near East Langton. The train was travelling at a speed of 94 mph (151 km/h) when the derailment occurred, and it subsequently ran for a distance of approximately 2 miles (3.2 km) before it stopped. The train remained upright during the derailment and did not foul the adjacent line. There were no injuries among the 190 passengers and 5 crew who were on board the train, but there was damage to the track and the train, including loss of diesel fuel.
+
+The immediate cause of the derailment was the complete fracture of the powered trailing axle of the leading bogie on the fourth vehicle. The fracture occurred underneath the gear-side output bearing of the final drive and was caused by this bearing stiffening up so that it could no longer rotate normally. When this happened the axle spun within the inner race of the bearing to which it is normally tightly fitted. The consequent generation of a large amount of frictional heat between the axle and bearing resulted in the axle being locally heated to a high temperature and weakened to the point it could no longer carry its normal loading.
+
+Key evidence about the condition of the bearing and its fit onto the axle was destroyed in the failure, making it impossible to determine with certainty, the precise sequence of events leading to the bearing becoming stiff in rotation. The RAIB investigation has interpreted the available evidence in order to identify the most likely cause of the failure from the possible causes. RAIB concluded that the most likely cause of the bearing failure which preceded the overheating of the axle was a loose fit between the gear-side output bearing and axle.
+
+RAIB has made four recommendations. Two recommendations relate to reviewing the design and overhaul procedures for final drive gearboxes on Meridians and other rolling stock. They also cover consideration of the detection of overheating output bearings in order to mitigate risk to persons resulting from a failure of the output bearings, regardless of the cause. A third recommendation relates to the oil sampling regime used for the Meridian fleet and the fourth relates to the provision of practical, simulation based alarm handling training for drivers and train crew.
+
+R012012-120130-East-Langton.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for East Langton 
+

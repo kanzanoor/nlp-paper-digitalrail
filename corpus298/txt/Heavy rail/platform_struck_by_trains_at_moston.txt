@@ -1,0 +1,22 @@
+
+  At about 06:06 hrs on 28 January 2015, the 03:57 hrs freight service from Warrington Arpley yard to Doncaster struck platform supports along the edge of the down platform at Moston station, near Manchester. This displaced other parts of the platform structure which were then struck, at about 06:17 hrs, by the 06:12 hrs passenger service from Manchester Victoria to Leeds. There were no injuries but both trains suffered minor damage.
+
+The freight train struck the platform structure because spigots intended to secure containers to a wagon, were projecting beyond the permitted width of the wagon. It is not known when the spigots were moved to this position, but closed circuit television (CCTV) evidence indicates that they left Warrington in this condition. The wagon design did not include a physical restraint to prevent the spigots being left in this position, but a member of staff at Warrington Arpley yard was required to check that they were correctly stowed. It is uncertain why this person did not notice the incorrect stowage; possibilities include concentrating on other aspects of his work and the difficulty of distinguishing the wrongly positioned spigots from the similarly coloured side of the wagon.
+
+It is unlikely that the accident would have occurred if the spacing between Moston Down platform and the adjacent track had met current criteria for new platforms. A high proportion of Network Rail platforms do not meet these criteria and, since 2009, continued use has been permitted where there has been no indication of significant risk. It is possible that historical movements of the platform are at least part of the reason for the tight clearances at Moston, but there has been no significant movement since January 2009. Although not related to the accident, the RAIB observed shortcomings in the Network Rail process for identifying such movements.
+
+The RAIB investigation has identified one learning point relating to the importance of checking that nothing projects beyond permitted limits before wagons commence journeys.
+
+RAIB has made two recommendations. The first, addressed to operators of container wagons, aims to prevent spigots being left in an unsafe position or, if this is not practicable, using paint or alternative means to ensure that incorrectly stowed spigots are easily seen. The second recommendation is addressed to Network Rail and requires that it provides effective processes for identifying platforms at which the distance to the adjacent track is reducing gradually.
+
+R172015_151007_Moston
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Moston station
+

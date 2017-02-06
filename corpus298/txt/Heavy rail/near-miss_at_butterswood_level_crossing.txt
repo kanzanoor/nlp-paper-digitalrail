@@ -1,0 +1,25 @@
+
+  At around 07:35 hrs on 25 June 2013 a passenger train was involved in a near-miss with a car on a level crossing near Butterswood in North Lincolnshire. The train passed over the level crossing with the barriers in the raised position and the road traffic signals extinguished. No injuries or damage were caused as a result of the incident.
+
+Normally, the approach of the train would have automatically initiated the closure of the crossing. However, the crossing was not working normally because the power supply to the crossing equipment had been interrupted. The crossing was of a type where train drivers are required to check that it is not obstructed as they approach and that it has operated correctly. A flashing light is provided for this purpose, just before the crossing, with a flashing white light displayed if the crossing has correctly closed against road users, and a flashing red light displayed at all other times (including those occasions when the crossing has failed to close on the approach of a train). The driver of the train involved in the near-miss did not notice until it was too late to stop that the flashing light was indicating that the crossing was not working normally, and was still open for road traffic.
+
+RAIB’s investigation found that the train driver had the expectation that the crossing would operate normally as the train approached and that he had not focused his attention on the flashing light at the point where he needed to confirm that the crossing had operated correctly for the passage of his train. Although the level crossing had probably failed around nine hours before the incident, the fact of its failure was not known to any railway staff.
+
+The investigation also found that the crossing was not protected with automatic warning system equipment and that the maintenance arrangements at the crossing were not effective in ensuring reliable performance of the equipment. In addition, the train operator’s briefing material did not clearly explain to drivers their role in respect of failures at this type of level crossing.
+
+RAIB has identified four key learning points relating to non-provision of the automatic warning system at locations where it is mandated by standards, recording of the condition of assets during inspection, storage of batteries, and involving people with relevant technical expertise in industry investigations into incidents and accidents.
+
+RAIB has made four recommendations. Three recommendations have been made to Network Rail addressing the indications given to train drivers approaching crossings where they are required to monitor the crossing’s status, improvements to the reliability of power supplies to crossings such as Butterswood and considering remote monitoring of the power supply at similar crossings. One recommendation has been made to First TransPennine Express regarding the briefing that it gives its drivers on this type of level crossing.
+
+R122014-140616-Butterswood.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Butterswood
+
+

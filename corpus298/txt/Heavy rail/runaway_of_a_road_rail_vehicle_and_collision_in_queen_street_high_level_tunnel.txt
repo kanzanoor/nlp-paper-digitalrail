@@ -1,0 +1,23 @@
+
+  At about 03:00 hrs on 21 April 2013, a road rail vehicle (RRV) ran away as it was being on-tracked north of Glasgow Queen Street High Level Tunnel on a section of railway sloping towards the tunnel. The RRV ran through the tunnel and struck two scaffolds that were being used for maintenance work on the tunnel walls. A person working on one of the scaffolds was thrown to the ground and suffered severe injuries to his shoulder. The track levelled out as the RRV ran into Glasgow Queen Street station and, after travelling a total distance of about 1.1 miles (1.8 kilometres), it stopped in platform 5, about 20 metres short of the buffer stop.
+
+The RRV was a mobile elevating work platform that was manufactured for use on road wheels and then converted by Rexquote Ltd to permit use on the railway. The RRV’s road wheels were intended to provide braking in both road and rail modes. This was achieved in rail mode by holding the road wheels against a hub extending from the rail wheels. The design of the RRV meant that during a transition phase in the on-tracking procedure, the road wheel brakes were ineffective because the RRV was supported on the rail wheels but the road wheels were not yet touching the hubs. Although instructed to follow a procedure which prevented this occurring simultaneously at both ends of the RRV, the machine operator unintentionally put the RRV into this condition. He was (correctly) standing beside the RRV when it started to move, and the control equipment was pulled from his hand before he could stop the vehicle.
+
+The RRV was fitted with holding brakes acting directly on both rail wheels at one end of the vehicle. These were intended to prevent a runaway if non-compliance with the operating instructions meant that all road wheel brakes were ineffective. The holding brake was insufficient to prevent the runaway due to shortcomings in Rexquote’s design, factory testing and specification of maintenance activities. The lack of an effective quality assurance system at Rexquote was an underlying factor. The design of the holding brake was not reviewed when the RRV was subject to the rail industry vehicle approval process because provision of such a brake was not required by Railway Industry Standards.
+
+RAIB has identified one learning point which reminds the rail industry that the rail vehicle approval process does not cover all aspects of rail vehicle performance. 
+
+RAIB has made four recommendations. One requires Rexquote to implement an effective quality assurance system and another, supporting an activity already proposed by Network Rail, seeks to widen the scope of safety-related audits applied by Network Rail to organisations supplying rail plant for use on its infrastructure. A third recommendation seeks improvements to the testing process for parking brakes provided on RRVs. The final recommendation, based on an observation, relates to the provision of lighting on RRVs.
+
+R152014-140717-Glasgow-Queen-Street.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Queen Street Tunnel
+
+

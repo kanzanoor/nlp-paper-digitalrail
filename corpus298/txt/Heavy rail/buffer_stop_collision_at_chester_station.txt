@@ -1,0 +1,26 @@
+
+  At 12:12 hrs on 20 November 2013, the 10:10 hrs passenger train from London Euston to Chester collided with the buffer stop at the end of the platform as it arrived at Chester station. The impact destroyed the buffer stop and caused the leading vehicle of the train to start to override the platform, demolishing a glass screen and damaging the platform. It was fortunate that there was no-one in this area at the time.
+
+Several passengers fell over as the train stopped, but did not report injuries. One passenger was taken to hospital as a precaution and was released later the same day. The front of the train was damaged by the impact and the leading bogie was derailed.
+
+Platform 1 at Chester station was closed until 04:15 hrs on 22 November for recovery of the train and repair of the buffer stop.
+
+The accident was caused by the train sliding on wet rails that were also contaminated with leaf residue and traces of lubricating oil. The train was not equipped with automatic sanding equipment, which could have applied sand to the rails to improve adhesion. The train was fitted with emergency sanding equipment but the driver did not activate this until the train was too close to the buffers to be able to stop before striking them.
+
+The train involved was a class 221 unit operated by Virgin Trains. RAIB analysed records of low rail adhesion incidents on Network Rail infrastructure during Autumn 2013 and found several other cases of class 221 trains, and the similar class 220, encountering low adhesion when attempting to stop. In some cases the driver had to use the emergency sanding equipment. RAIB analysis found that, per attempted stop, class 220 and 221 trains were the most likely type of train to be involved in a low adhesion incident. Almost all other types of train are fitted with automatic sanding equipment, or equivalent.
+
+RAIB has identified two key learning points and made three recommendations. The operators of class 220 and 221 trains are recommended to fit equipment to their trains to automatically apply sand when wheel slide is detected during heavy braking (Virgin Trains has recently informed RAIB of its intention to fit such equipment to its fleet of class 221 trains). A recommendation is made to Virgin Trains to amend its operating instructions to drivers and a recommendation is made to RSSB to update the standard which governs the fitment of train sanding equipment.
+
+The first learning point concerns the analysis of data from train data recorders to provide information on the location of low adhesion conditions on the network. The second learning point is that infrastructure managers need to be aware of changes in traffic patterns which necessitate the reassessment of the adequacy of buffer stops in terminal platforms.
+
+R262014-141124-Chester.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Chester station
+

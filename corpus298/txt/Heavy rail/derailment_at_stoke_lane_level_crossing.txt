@@ -1,0 +1,25 @@
+
+  On 27 August 2013, at around 04:27 hrs, a freight train derailed by two axles as it traversed Stoke Lane level crossing on the Newark to Nottingham line.The train was travelling at a speed of 53 mph (85 km/h) when the trailing wheelsets of the 26th and 28th wagons derailed. Consequential damage to the rear of the train resulted in an air leak and the automatic application of the brakes. The train came to a stop after around 1.3 km, at Carlton station. The wagons remained upright and in line, and did not foul the adjacent running line. There was no leakage of diesel fuel from any of the tank wagons. The track was damaged by the derailed wheelsets for a distance of around 800 metres. The driver was not injured. The railway remained closed for repairs until 15:30 hrs on 8 September 2013.
+
+The immediate cause of the derailment was a severe dip in the track which developed rapidly under the leading portion of the train. After the derailment, severe dips of about 100 mm were found in both rails of the affected line, where the rails had deformed over a large void in the ground which had left the track unsupported over a length of around 3 metres. The void under the railway and other voids found later under the adjacent road surface were caused by excessive ground loss during the recent construction of a microtunnel along the road centre line. RAIB’s investigation has interpreted the available evidence in order to identify the most likely cause of the voids. Although some alternative explanations cannot be completely discounted, RAIB considers that the most likely explanation for the ground loss is that it was as a result of overmining of the ground during the construction work.
+
+RAIB’s investigation identified safety lessons, both for those in the construction industry who build undertrack crossings and also for the railway regarding managing asset protection processes for such constructions. In line with the RAIB’s remit, the improvement of railway asset protection processes to prevent recurrence has been the focus of its investigation. This is reflected in the balance of the recommendations made, which relate to the following areas:
+
+
+  disseminating key learning points arising from this accident to the UK tunnelling industry, via the Health and Safety Executive and relevant industry bodies 
+  improving Network Rail’s asset protection standard for construction of under track crossings so that there is one unified standard applicable to both outside parties and Network Rail
+  improving the technical knowledge of Network Rail’s asset protection engineers about under track crossings and increasing the time and technical assistance available to them to adequately assess risks and review documentation submitted by outside parties
+  reviewing the suitability of the action limits in Network Rail’s standard for monitoring track movement over or adjacent to civil engineering works, including under track crossings.
+
+
+R022015_150402_Stoke_Lane 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Stoke Lane 
+

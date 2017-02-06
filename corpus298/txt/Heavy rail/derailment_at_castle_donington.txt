@@ -1,0 +1,29 @@
+
+  At about 19:55 hrs on 21 January 2013, a freight train consisting of 26 empty wagons, hauled by a diesel locomotive, derailed at Castle Donington, Leicestershire. The eighteenth wagon derailed first, followed by the nineteenth and twentieth wagons. Subsequently, the train divided between the nineteenth and twentieth wagons, causing the brake to apply. There was extensive track damage, but no-one was hurt.
+
+The immediate cause was that cyclic top before the point of derailment excited the suspension of the eighteenth wagon causing the left-hand leading wheel to become unloaded and to derail to the left. There had been a recurrence of cyclic top faults in the vicinity of where the derailment occurred, and the routine inspection and maintenance had not kept the track in an acceptable condition. In particular, planned stoneblowing on 20 November 2012, which should have included the track through the point of derailment, stopped before reaching it due to shortage of time.
+
+An underlying factor was that the ballast supporting the track was fouled, causing the track to be inadequately supported and leading to the recurrent cyclic top. The need to renew the ballast had been identified, but the work was not programmed to be carried out until 2016/17. This was in line with Network Rail’s policy for renewals on the route.
+
+The RAIB has made two recommendations, one directed to Network Rail and one to RSSB. The recommendation to Network Rail covers reviewing, and if necessary, improving the planning of stoneblowing so that there is sufficient time to complete the work. The recommendation to RSSB (in conjunction with the rail industry) is to review the current Rule Book requirements relating to the action required following an abnormal brake application, and to make any changes found necessary to reduce the risk of trains colliding with a derailed rail vehicle.
+
+The RAIB has also identified three learning points about:
+
+
+  checking track, following the passage of trains, after lifting and packing work
+  using appropriately qualified staff to raise speed restrictions following work to remedy poor track condition
+  staff communicating safety information so that it is clearly and accurately understood.
+
+
+R022014-140116-Castle-Donington.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Castle Donington
+
+

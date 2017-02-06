@@ -1,0 +1,13 @@
+
+  At about 14:15 hrs on 30 June 2015, a freight train, conveying 22 empty diesel fuel tank wagons, derailed on a track buckle near Langworth, Lincolnshire. The locomotive and the first ten wagons successfully ran over the buckle before the eleventh and the following nine wagons derailed. Four of these wagons overturned and one came to rest across the adjacent track. No-one was injured and there was no diesel fuel spillage. Extensive damage was caused to the train and to the infrastructure. 
+
+The investigation found that the track buckled on the hottest day of the year to date because the forces in the rails resulting from thermal expansion exceeded the ability of the ballast to restrain the track. The buckle started at a point where there was an existing misalignment in the track; a feature which reduced its resistance to buckling. The buckle increased under the train because its permitted speed was too fast for the vulnerable condition of the track and the rail temperature on the day. 
+
+Underlying the accident was a lack of appreciation of the vulnerability of the track to buckling. The under-resourcing of the maintenance team, leading to the continual reprioritisation of maintenance tasks, was also a possible underlying factor. 
+
+As a consequence of this investigation, RAIB has made four recommendations to Network Rail. The first is to enable improved assessments of the vulnerability of track to buckling on the basis of more accurate data about its ability to withstand thermal expansion. The second is to ensure a more consistent interpretation of risk factors is included in the calculation of rail temperatures at which mitigation measures, such as speed restrictions, should be applied. Two further recommendations relate to local resourcing for track maintenance and managerial oversight of the process of reprioritising or cancelling maintenance tasks. 
+
+The report has also identified two learning points. The first reinforces the importance of completing records of maintenance interventions that could affect the buckling strength of the rail and investigating any anomalous behaviour of the rail during those interventions. The second relates to checking the security of bolts on a type of switch assembly.
+
+R112016_160627_Langworth 
+

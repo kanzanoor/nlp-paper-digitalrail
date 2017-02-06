@@ -1,0 +1,62 @@
+23-02-2007-Derailment-at-Grayrigg
+
+Accident:On 23 February 2007 at 20:12 hrs, an express passenger train derailed
+All nine vehicles of the Class 390 Pendolino unit derailed (Figure 2). Eight of the vehicles
+subsequently fell down an embankment and five turned onto their sides.
+
+Work enviroment:It was dark at the time, and the driver of the train was unable to see anything untoward
+before the accident.
+
+EQ/Hardware: 
+1:The fasteners in the third permanent way stretcher bar joint failed by unwinding. This
+occurs when the applied load exceeds the clamping force on the joint.
+
+2:The left-hand switch rail was found in a partially open position with no connections
+between it and the right-hand switch rail, because all of the stretcher bar assemblies had
+failed.
+
+3:The second permanent way stretcher bar was missing from the points.
+4:The third permanent way stretcher bar was found in place but broken in two places.
+5:The accident at Grayrigg was due to sequential failures of the permanent way and lock
+stretcher bar assemblies at 2B points allowing the left-hand switch rail to move to an
+unsafe position.
+
+
+Communication: 
+1:The train crew, passengers, and local residents called the emergency services.
+2:Notes from the meeting confirm that all
+work was considered complete; no-one present identified the omitted section of inspection
+H, which included 2B points. The track section manager was not rostered to be in work
+on that day, but was present at this meeting, although he did not participate fully as he
+was simultaneously preparing for a staff briefing that afternoon.
+
+
+
+
+Supervision-Management:
+1:A supervisor carrying out a scheduled basic visual inspection of the track on Sunday
+18 February 2007 did not include 2B points. He had originally only intended to carry out
+a supervisory inspection, but then agreed, on 12 February 2007.
+
+MM 2:Four bolts and four nuts (all ¾ inch Whitworth) and two single coil spring washers were
+found in close proximity to the third permanent way stretcher bar. All of the bolts
+exhibited signs of damage consistent with being loosely held within the switch rail holes
+prior to working free.
+
+3:On 19 February 2007, the ‘plan-do-review’ meeting did not recognise that there was an
+omission in the length of the inspection, and this meant that no action to reinstate the
+inspection was taken.
+
+
+WorklOAD:During the week he forgot that he had agreed to extend his inspection
+to cover the extra length. As a result, the opportunity for a basic visual inspection to
+discover the degraded points, and for remedial action to be taken was lost.
+
+Design:The construction of 2B points at Lambrigg was to a standard design.
+
+Personal:The driver recalled that the train ‘leapt in the air’ as it derailed. He was unable to react
+before the motion of the derailed train propelled him out of his seat.
+
+procedure: As a result of the damage and disruption to the signalling system, all signals in the
+immediate vicinity on both lines automatically reverted to danger and approaching trains
+were stopped before they reached the site of the accident.

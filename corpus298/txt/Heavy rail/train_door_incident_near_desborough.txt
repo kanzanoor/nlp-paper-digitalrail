@@ -1,0 +1,27 @@
+
+  On 10 June 2006 an exterior door on a train from St Pancras to Sheffield came open while the train was moving. The door came open on the class 222 Meridian just north of Kettering, causing the train’s brake to apply automatically. However, the driver initially overrode this as indications in his cab were ambiguous, and he was uncertain what had happened. When the driver realised the situation, he made a controlled brake and brought the train to a stand at Desborough summit, six miles north of Kettering station. The door was then closed and secured, and the train continued to the next station, where it was taken out of service.
+
+There were no injuries or material damage as a result of the incident. However, the state of the door after the train departed from Luton station presented a real and unprotected risk to those on board the train.
+
+The immediate cause of the incident was a malfunction of the door lock switch, which detects the status of the door lock, when the doors were opened at Luton station. This meant the door was both unlocked and had no closing force applied to it from the door motor. There were also nine contributory factors to the incident.
+
+RAIB has made nine recommendations as a result of the report, aimed at:
+
+
+  the design, development and manufacturing of door components and the door locking system
+  training and procedures for on-board staff
+  the design of and guidance for the use of emergency brakes.
+
+
+ 
+R312007-070830-Desborough.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body.
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Desborough
+

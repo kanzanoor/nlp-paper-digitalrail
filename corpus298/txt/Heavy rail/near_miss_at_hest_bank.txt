@@ -1,0 +1,21 @@
+
+  During the afternoon of 22 September 2014, a group of nine track workers repairing a section of the West Coast Main Line south of Hest Bank level crossing, near Lancaster, narrowly avoided being struck by a southbound passenger train.  Their site of work was located on a bend which restricted visibility of approaching trains.  Warning of approaching trains was intended to be given by lookouts, located remotely with good visibility of the track, using a radio-based lookout operated warning system (LOWS).  The system had been working normally prior to the incident, but the workgroup did not receive a warning for the incident train.
+
+The track workers saw the approaching train with just enough time to clear the track before it passed them while travelling at 98 mph (158 km/h).  They were shaken by the incident, but not physically injured.  All work on the site was stopped for the remainder of the shift.
+
+The incident was caused because a lookout did not give a warning, either because he operated the wrong switch on his radio transmitter by mistake, or because he forgot about the need to send a warning during an intended delay period between seeing the train and operating the warning switches.  This delay was because he was positioned on a long section of straight track and could see approaching trains for significantly longer than the time required for the workgroup to move into a position of safety.  A previous RAIB recommendation intended to mitigate this risk had not been implemented due to administrative errors.  It is probable that the lookout’s vigilance had degraded as he had been working continuously for almost two hours.  Although unrelated to the incident, the RAIB identified that a safety-critical element of the LOWS circuitry was not subject to routine testing.
+
+As a consequence of this investigation, RAIB has made two recommendations to Network Rail covering the management of working time for tasks which depend on vigilance, and the circumstances in which LOWS should be used.
+
+R082015_150716_Hest_Bank
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Hest Bank
+
+

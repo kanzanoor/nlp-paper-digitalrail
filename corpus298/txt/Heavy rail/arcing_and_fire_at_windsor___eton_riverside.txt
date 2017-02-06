@@ -1,0 +1,22 @@
+
+  On the evening of 30 January 2015, the 19:53 hrs South West Trains service from Windsor & Eton Riverside to London Waterloo left its origin station on time. After the train had travelled about 400 metres, there was a small explosion under the sixth carriage, followed by about 22 seconds of severe electrical arcing.
+
+The train, which was formed of two class 458/5 electric multiple units (ten carriages), was travelling at about 14 mph (23 km/h) at the time. The brakes applied because of damage to air pipes, and the train stopped very rapidly. Some smoke entered the carriages through ventilators. There were two passengers in the sixth carriage, and they moved quickly into another part of the train. The driver contacted the signaller by radio to ask for the electric power to be switched off. While he was doing this, the floor of the sixth carriage was penetrated by fire, and smoke rapidly filled the vehicle. A few minutes after this, the lights in the rear five carriages went out.
+
+There were 19 passengers on the train. Some of them operated the emergency door release in the rear carriage, got down onto the track, and walked back to Windsor station. Railway staff later evacuated the remaining passengers to the track, and helped them walk back to the station. The fire brigade were called, and confirmed by 20:50 hrs that the fire was out. None of the passengers were hurt, but the guard of the train was taken to hospital and treated for smoke inhalation.
+
+The fire occurred because a joint between three power cables, located under the floor of the sixth carriage, had not been secured correctly when the carriage was reassembled after being rebuilt and refurbished in 2014. Electrical arcing had developed at the loose joint, and this damaged the ends of the cables and eventually led to the arcing which badly damaged the structure of the train. This in turn caused a fire that penetrated the floor.
+
+RAIB has made four recommendations. One, addressed to Wabtec Rail Ltd, covers the review and improvement of quality assurance arrangements at the factory where the refurbishment work was done. The second, addressed to Network Rail, relates to the need for changes to the rules relating to the conditions under which passengers are evacuated from trains after incidents. The third and fourth, addressed to South West Trains, concern the way in which the emergency lighting on the trains is configured to operate in the event of a loss of external power, and the need to review the risks associated with power cables and the joints between them. The investigation also identified four learning points for the railway industry, relating to the design of electrical junction boxes, the need for train crew to be fully aware of how on-train equipment works, the organisation of train conversion projects, and the importance of ensuring that records relating to train design are accurate and kept up-to-date.
+
+R182015_151021_Windsor
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Windsor & Eaton Riverside
+

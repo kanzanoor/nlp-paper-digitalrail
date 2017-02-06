@@ -1,0 +1,27 @@
+
+  At 13:25 hrs on 20 April 2011, a tram travelling towards the Jewellery Quarter tram stop on the Midland Metro struck an item of overhead line equipment (OLE), known as a cantilever, which had previously become partially detached from its supporting pole. This damaged the tram and led to a progressive collapse of the OLE for about 200 metres, which resulted in further damage to the tram. Three adult and three child passengers suffered injuries which required hospital treatment as a result of the accident.
+
+The cantilever became detached because part of the assembly which connected it to its supporting pole, known as the reducing sleeve, had fractured after becoming mechanically overloaded.
+
+This overload resulted from a combination of the cantilever becoming momentarily restrained at some point along its length and either the introduction of an abnormal load (following the failure of a tensioned component) or the action of operating loads within the OLE. The cantilever may also have been restrained to some degree from rotating around its supporting pole. This restraint, the way in which the cantilever was installed, the ambient temperature and reduced clearances around tensioned components were also possibly factors in creating the overload.
+
+RAIB has made seven recommendations to National Express Midland Metro. These cover;
+
+
+  the understanding of relevant failure mechanisms within the OLE system and the prevention of further similar incidents
+  the change control of safety critical OLE components
+  the management of the possible risks created by a driver becoming incapacitated during an incident
+  the maintenance of mandatory competences held by members of tram crew.
+
+
+R212012-120927-Jewellery-Quarter.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Jewellery Quarter
+

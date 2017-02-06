@@ -1,0 +1,23 @@
+
+  At about 20:15 hrs on 15 October 2013, a freight train operated by Direct Rail Services, which was carrying containers, derailed about 4 miles (6.4 km) south west of Gloucester station on the railway line from Newport via Lydney. It was travelling at 69 mph (111 km/h) when the rear wheelset of the last wagon in the train derailed on track with regularly spaced dips in both rails, a phenomenon known as cyclic top. The train continued to Gloucester station where it was stopped by the signaller, who had become aware of a possible problem with the train through damage to the signalling system. By the time the train stopped, the rear wagon was severely damaged, the empty container it was carrying had fallen off, and there was damage to four miles of track, signalling cables, four level crossings and two bridges.
+
+The immediate cause of the accident was a cyclic top track defect which caused a wagon that was susceptible to this type of track defect to derail. The dips in the track had formed due to water flowing underneath the track and although the local Network Rail track maintenance team had identified the cyclic top track defect, the repairs it carried out were ineffective. The severity of the dips required immediate action by Network Rail, including the imposition of a speed restriction for the trains passing over it, but no such restriction had been put in place. Speed restrictions had repeatedly been imposed since December 2011 but were removed each time repair work was completed; on each occasion, such work subsequently proved to be ineffective.
+
+The type of wagon that derailed was found to be susceptible to wheel unloading when responding to these dips in the track, especially when loaded with the type of empty container it was carrying. This susceptibility was not identified when the wagon was tested or approved for use on Network Rail’s infrastructure.
+
+RAIB also observes: the local Network Rail track maintenance team had a shortfall in its manpower resources; and design guidance for the distance between the wheelsets on two-axle wagons could also be applied to the distance between the centres of the bogies on bogie wagons.
+
+RAIB has made seven recommendations. Four are directed to Network Rail and cover reviewing the drainage in the area where the train derailed, revising processes for managing emergency speed restrictions for cyclic top track defects, providing track maintenance staff with a way of measuring cyclic top after completing repairs, and investigating how cyclic top on steel sleeper track can be effectively repaired. Two are directed to RSSB and cover reviewing how a vehicle’s response to cyclic top is assessed and amending guidance on the design of freight wagons. One is directed to Direct Rail Services and covers mitigating the susceptibility of this type of wagon to cyclic top.
+
+R202014-141009-Gloucester.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Gloucester
+
+

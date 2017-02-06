@@ -1,0 +1,24 @@
+
+  At around 11:35 hrs on 10 April 2015, a passenger was dragged along the platform at West Wickham station, south London, when the 11:00 hrs Southeastern service from London Cannon Street to Hayes (Kent) departed while her backpack strap was trapped in the doors of the train. As it moved off, she fell onto the platform and then through the gap between the platform and train, suffering life-changing injuries.
+
+The backpack strap became trapped when the train doors closed unexpectedly and quickly while she was alighting. Testing showed that this potentially unsafe situation could only occur when a passenger pressed a door-open button, illuminated to show it was available for use, within a period of less than one second beginning shortly after the train driver initiated the door closure sequence.
+
+RAIB identified this door behaviour, which was not known to the owner or operator, and issued urgent safety advice. In response to this, the railway industry undertook a review which identified 21 other types of train that permit passenger doors to be opened for a short period after door closure is initiated by train crew. The industry is now seeking ways to deal with this risk.
+
+The train was being driven by a trainee driver under the supervision of an instructor.  The service was driver only operation, which meant that before leaving West Wickham station, and after all train doors were closed, drivers were required to check that it was safe to depart by viewing CCTV monitors located on the platform.  Two of these monitor images showed that a passenger appeared to be trapped but, although visible from the driving cab, neither the trainee driver nor the instructor was aware of this.  Although the RAIB has not been able to establish why the trapped passenger was not seen before the train departed, a number of possible explanations have been identified.  
+
+As a result of this accident, RAIB has made two recommendations. The first, addressed to operators and owners of trains with power operated doors, is intended to identify and correct all train door control systems exhibiting the unsafe characteristics found during this investigation. The second, addressed to RSSB, seeks changes to guidance documents so that, where practicable, staff dispatching trains watch the train doors while they are closing, in addition to checking the doors after they are closed.
+
+RAIB has also identified five learning points relating to: releasing train doors long enough to allow passengers to get on and off trains safely; effective checking of train doors before trains depart (and not relying on the door interlock light); design of door controls; and use of train driving simulators to raise drivers’ awareness of circumstances when it is not safe to depart from a station.
+
+R032016_160229_West_Wickham 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for West Wickham
+

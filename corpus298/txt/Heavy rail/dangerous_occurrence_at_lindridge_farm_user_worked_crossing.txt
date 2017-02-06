@@ -1,0 +1,22 @@
+
+  At about 07:38 hrs on 22 March 2012, a motorist used the telephone at Lindridge Farm user worked crossing, near Bagworth in Leicestershire, to ask the signaller at Network Rail’s East Midlands Control Centre for authorisation to cross the railway. The signaller checked the indications on his workstation, observed that a train had already passed over the crossing, and gave permission to cross. The motorist opened the near gate, crossed the railway line on foot, and while opening the far gate saw a train approaching. The motorist called the signaller back to report what had happened.
+
+The immediate cause of the incident was that the signaller believed the train had already passed the level crossing when he gave the motorist permission to cross because his workstation view showed the level crossing in the wrong place. This error had been present on the workstation view from the time it was commissioned on 3 January 2012 as part of a project to transfer control of the railway from Leicester signal box to the East Midlands Control Centre.
+
+This project had redrawn a signalling plan for the Leicester area and introduced an error; a track circuit was incorrectly named. This error was not noticed and was copied into a scheme plan, which was subsequently used to check the design of the signaller’s workstation views. During these design checks, the level crossing was moved to the wrong track section on the view, so that it corresponded with the error on the scheme plan. The error on the view was not identified during testing so the signaller’s workstation was commissioned with the level crossing shown in the wrong place.
+
+RAIB also observes: the signaller did not report the incident straight away; the workstation had been commissioned with two other user worked crossings shown in the wrong place; and the other two level crossings had also previously been shown in the wrong place on the signaller’s panel at Leicester signal box prior to the transfer of control to the EMCC.
+
+RAIB has made five recommendations, all directed at Network Rail. These cover the management of signalling source records needed for a re-control project, ways of reducing the likelihood of errors on signalling or scheme plans, correlating new signalling displays to the existing display, improving the management of deferred test logs, and better controls for installing telephones at level crossings. RAIB also identified a learning point for the railway industry, about the importance of immediately reporting allegations of incidents that are received from members of the public.
+
+R112013-130729-Lindridge-Farm.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Lindridge Farm UWC
+

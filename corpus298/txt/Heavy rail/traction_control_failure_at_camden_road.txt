@@ -1,0 +1,26 @@
+
+  On Friday 07 April, the 16:22 train from Willesden Track Maintenance Depot to Camden Road passed a signal at danger by one coach length near Camden Road station. The train was accelerating under power and could not be switched off by normal use of the controls. No other trains were involved and there were no injuries.
+
+The immediate cause of the accident was the train was returned to service with incorrectly connected wiring. This was because specified testing was not carried out after a wiring connection was altered during repairs. Contributing factors were the poor condition of cable identification numbers; the lack of a formal procedure for identifying cables when disconnected; the lack of a mandated test sequence; the testing staff’s limited understanding of Class 313 systems; and the design of the traction control circuits.
+
+RAIB has made nine recommendations. These cover:
+
+
+  the instructions for and methods of testing the class 313 units following repairs;
+  cable identification on current and new rolling stock;
+  the accessibility of wiring diagrams for use by staff;
+  and the control of risk arising from the design of the control circuitry.
+
+
+R102007-070430-Camden-Road.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body.
+  RAIB may add comment, particularly if we have concerns regarding these responses.  
+
+
+RAIB recommendation response for Camden Road
+
+

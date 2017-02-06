@@ -1,0 +1,23 @@
+
+  On 12 January 2006 the 02:40 Thameslink service from Bedford to Brighton experienced difficulties when braking for the scheduled stop at Haywards Heath and over-ran the station by approximately 4 vehicle lengths. The train was set back into Haywards Heath and similar braking difficulties were experienced during this move. The train was terminated at Haywards Heath.
+
+The immediate cause of the incident was the presence of an extraneous washer in the drumswitch, causing an electrical defect preventing the proper application of the brakes. A contributing factor was the difficulty in examining the front section of the drumswitch, where the defect occurred, which may have led to the presence of the washer being missed.
+
+RAIB has made two recommendations as a result of its investigation:
+
+
+  First Capital Connect (formerly Thameslink) and Southern to arrange for an inspection mirror to be used when examining the interior of the drumswitch. This recommendation has already been implemented.
+  ALSTOM to review procedures to prevent loose material from interfering with the operation of the drumswitch
+
+
+R102006-060720-HaywardsHeath.pdf
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body.
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB recommendation response for Haywards Heath
+

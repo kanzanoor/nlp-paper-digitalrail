@@ -1,0 +1,20 @@
+
+  At 02:27 hrs on 3 February 2012, an electric locomotive that was being driven from Crewe to Wembley, on the West Coast Main Line, derailed as it negotiated the diverging route at Bletchley Junction. The locomotive was travelling at a speed of 65.5 mph (105.4 km/h) when it derailed: the speed limit for the diverging route was 15 mph (24 km/h). The driver received minor injuries and significant damage was caused to the underside of the locomotive, the track and the overhead electrification equipment.
+
+The driver of the locomotive correctly reduced its speed on the approach to the red signal before the junction but when this changed to green, with an ‘F’ indication meaning that the locomotive was to take the diverging route, the driver applied full power in the belief that he was going straight on. It is likely that the driver only realised that he was to take the diverging route around the time he was passing the signal, by which time it was too late to prevent the derailment.
+
+RAIB found that the driver did not immediately observe and/or register what was displayed by the signal’s route indicator even though he understood its meaning. This was despite the fact that the approach view of the route indicator was found to be satisfactory, free of obstructions and with sufficient time for a driver to see and understand its meaning. RAIB has concluded that the driver’s belief that he was continuing on the up slow line overcame the fact that the ‘F’ indication was clearly visible to him.
+
+RAIB has made one recommendation to Virgin Trains covering the training and assessment of drivers’ route knowledge, and two recommendations to Network Rail. The first of these relates to the assessment of the risk from overspeeding at diverging junctions when the signal before the junction clears from red to a proceed indication, and the second relates to clarifying the status of the Weekly Operating Notice, an operating publication which is issued to drivers, and which contained information about engineering work south of Bletchley requiring trains to take the diverging route at Bletchley Junction.
+
+R242012-121121-Bletchley-Junction.pdf 
+
+Response to recommendations:
+
+
+  RAIB will periodically update the status of recommendations as reported to us by the relevant safety authority or public body
+  RAIB may add comment, particularly if we have concerns regarding these responses.
+
+
+RAIB Recommendation response for Bletchley Junction
+
